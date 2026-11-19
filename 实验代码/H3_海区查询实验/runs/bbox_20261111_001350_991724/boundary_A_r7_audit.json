@@ -1,0 +1,10 @@
+{
+  "dataset": "boundary_A",
+  "resolution": 7,
+  "border_candidates": 8198,
+  "bbox_removed": 2965,
+  "new_exact_points": 5233,
+  "original_exact_points": 8198,
+  "internal_accepted_points": 322,
+  "selected_points": 4440
+}

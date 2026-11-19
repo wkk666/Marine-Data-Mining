@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "verified_at": "2026-11-11T15:32:39.481732+08:00",
+  "run": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869",
+  "audit_script_sha256": "4f3e4b8d2c0902478fb4b5a7eea70a1a0dfeb141e58b452bb47116bff43a7288",
+  "original_manifest_sha256": "4db64014cf6418084c3279c45aa55971926468dafe6d70879df2d71711ef038f",
+  "counts": {
+    "original_manifest_files": 81,
+    "previous_files": 316,
+    "independent_datasets": 6,
+    "boundary_probes_checked": 192,
+    "prerecommendations": 54,
+    "formal_records": 882,
+    "formal_groups": 126,
+    "formal_choice_traces": 882,
+    "queries_required_by_formal_tasks": 323694,
+    "summary_rows": 126,
+    "comparisons": 72,
+    "paired_differences": 504,
+    "comparisons_with_different_median_estimands": 65,
+    "posthoc_oracle_rows": 18,
+    "strategy_regret_rows": 90,
+    "frozen_prediction_rows": 72,
+    "posthoc_diagnostic_rows": 54,
+    "exact_f_cases_clipped_by_frozen_predictor": 2,
+    "sample_f_cases_clipped": 3,
+    "new_resolution_trigger_scenarios": 0
+  },
+  "checks": [
+    "Original output manifest, old files, full-precision model, protocol and source provenance match.",
+    "All 54 recommendations locked before full correctness, warmup, timing and posthoc diagnostics.",
+    "Saved fixed ID sets agree; all 192 boundary probes and saved full-cover checks pass.",
+    "All formal choices match prerecommendations; each group has seven records in the frozen randomized order.",
+    "Summary medians/IQR/ranges, all four signs, paired differences and worst losses recomputed from raw nanoseconds.",
+    "Prediction errors and exact-f counterfactuals use the frozen clipping rule; no model fitting or query is executed."
+  ],
+  "files_outside_original_manifest": [
+    "结果要点与净节省表.md"
+  ],
+  "scope": "Read saved CSV/JSON/source bytes only; no experiment imports, point generation, geometry queries, benchmarks or refitting.",
+  "new_audit_files": [
+    "artifact_validation.json",
+    "postprocessing/verify_independent_validation.py"
+  ]
+}

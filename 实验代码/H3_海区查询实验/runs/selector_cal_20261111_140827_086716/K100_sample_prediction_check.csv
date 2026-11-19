@@ -1,0 +1,17 @@
+﻿dataset,method,K,sample_f_raw,sample_f_used,predicted_method_total_ms,measured_fixed_method_total_ms,relative_error_percent,note
+uniform_A,direct,100,0.11,0.11,17.69041933403106,16.555,6.858467738031165,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+uniform_A,r6,100,0.11,0.11,18.295795101813628,17.1965,6.392551401817971,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+uniform_A,r7,100,0.11,0.11,16.390405029162466,14.9525,9.61648573256957,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+uniform_A,r8,100,0.11,0.11,31.08665722212262,30.0882,3.3184345428527493,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+uniform_B,direct,100,0.075,0.08433014354066985,16.594758569811223,16.5885,0.03772836489871278,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+uniform_B,r6,100,0.075,0.08433014354066985,17.00930113134248,17.0594,-0.2936730990393638,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+uniform_B,r7,100,0.075,0.08433014354066985,14.865052976204641,15.1188,-1.6783542595666268,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+uniform_B,r8,100,0.075,0.08433014354066985,29.679370462151116,29.9709,-0.9727086535568976,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_A,direct,100,0.525,0.525,35.40377187543043,35.2509,0.4336680068606132,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_A,r6,100,0.525,0.525,39.09431411930015,38.8969,0.5075317552302333,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_A,r7,100,0.525,0.525,41.050500148136756,41.0475,0.007308966774483973,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_A,r8,100,0.525,0.525,53.838011765669386,53.5531,0.5320173167741642,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_B,direct,100,0.505,0.505,34.55011633126661,35.5976,-2.942568231379059,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_B,r6,100,0.505,0.505,38.09197585339718,39.1591,-2.725098755085847,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_B,r7,100,0.505,0.505,39.86206182915004,41.4133,-3.7457487590941945,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement
+boundary_B,r8,100,0.505,0.505,52.741560944293646,53.7819,-1.9343664982203206,fixed-method cost prediction only; selection fee S excluded; not end-to-end selector measurement

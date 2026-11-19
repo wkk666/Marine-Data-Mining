@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "oracle_selected_points": 2155,
+  "total_points": 10032,
+  "probe_points": 32,
+  "probe_checks_passed": true,
+  "all_cover_checks_passed": true,
+  "methods": {
+    "direct": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicate_results": 0,
+      "candidate_points": 2548,
+      "exact_points": 2548,
+      "internal_accepted_points": 0,
+      "selected_points": 2155,
+      "coverage": null
+    },
+    "h3_r6": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicate_results": 0,
+      "candidate_points": 3882,
+      "exact_points": 3158,
+      "internal_accepted_points": 724,
+      "selected_points": 2155,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "h3_r7": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicate_results": 0,
+      "candidate_points": 2795,
+      "exact_points": 1295,
+      "internal_accepted_points": 1500,
+      "selected_points": 2155,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "h3_r8": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicate_results": 0,
+      "candidate_points": 2397,
+      "exact_points": 522,
+      "internal_accepted_points": 1875,
+      "selected_points": 2155,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "requirements_绘图.txt": "55a90c8c1570dd9a4b5cb9cfdad5cbe6c7827f187e7b21abeafce2e031c1037f",
+  "图注.md": "7f14c5b0c17e4b7b476880ef8583a35212897f60d76a78da5e3ed42435bd0b2f",
+  "图稿检查.json": "ea8a41992679aa34a27e02cc2587b43cb95d45d3c6e1f56e77d1aca458ca904a",
+  "图表数据来源说明.md": "98ade7b4c449f1ef1e1b3e2be2a8300b4f1a769030bb70180fbe89c02b6342ee",
+  "结果与分析_初稿.md": "fe430809b53a2b7d7c207f0b0b1ab908f0abacfb9dab077b926db8885a26c9a7",
+  "绘制报告图.py": "23f483afb8044859ac81a77dbb13cfe3f7c23eb3e68770f19ddb06fae102c911",
+  "绘图来源与环境.json": "cd7f801550dd512b578ed6ee0376e3d27beb91403b01cf004123f045ddc379b6",
+  "统计核对.json": "dc42fc1edf2c2968c8d77620446dbed1f382d19f9e7a96af549ba16210af27cb",
+  "图稿/图1_海区与点分布.png": "dfe8857092c47bb24512a702f42f931f52e460de5c0b7634db634c8c77ab38b6",
+  "图稿/图1_海区与点分布.svg": "9c21718d1e8993121a774494c1bf19958485075d9ae4905f2f081621eb8b823a",
+  "图稿/图2_固定方法完整成本.png": "b31f2125232f039d1c9358fd26efba9fda78148be7f2f813c084e8d8a767eb17",
+  "图稿/图2_固定方法完整成本.svg": "305e8badae058e2b7eb6949eefd264f613a8ea68c31e0eb8c694194bb95c61a2",
+  "图稿/图3_策略净节省与波动.png": "9cade2e0cfa4230f61a6767604eb94e7c1735b027bfd1545e3569893f1a6384f",
+  "图稿/图3_策略净节省与波动.svg": "8fe6b0c8e70dc5da6fb9ce9dd6750b378e813e1872b3a76079196146d7d69872",
+  "图稿/图4_比例与冻结区间.png": "c970bf976b6ab84368aaf9ccc6287c98d7c022f9b5713a595fcad172d0e81222",
+  "图稿/图4_比例与冻结区间.svg": "693a0a90fadaf8e8f6688a940b99dcac4cfdf3b9527484b25154aa3f0997e854",
+  "图表数据/图2_固定方法绘图数据.csv": "172fb92bd4d10049988f72a36874502b0f67036459a859424650a4296a6caf43",
+  "图表数据/图3_原始配对差.csv": "730fc0cf9ab66d44fd674d5514ce935ea5a5d9908243037a06f92e3bb8f17bec",
+  "图表数据/图3_同轮净节省绘图数据.csv": "c2df5d08dd4321baf2a881803f7e28b23bd9ee33e49fc9eb0953c8e0423f61dc",
+  "图表数据/图4_冻结区间原记录.csv": "cb6bd25c1a9cbc2a4d2b6c1bc17a27e49bef2953e5a40e050a3783e20dff4164",
+  "图表数据/图4_比例绘图数据.csv": "11a96c399d19e543e3cf20f22572b47b5218c3dced84f023c1bab8ed650e7922"
+}

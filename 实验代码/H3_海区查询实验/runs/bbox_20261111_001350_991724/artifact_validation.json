@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "raw_whole_trials": 196,
+  "raw_profile_trials": 868,
+  "all_28_method_medians_and_variation_recomputed": true,
+  "all_12_candidate_counts_recomputed": true,
+  "all_28_saved_ID_sets_equal_to_exact_oracle": true,
+  "input_bytes_unchanged": true,
+  "previous_files_unchanged": 131
+}

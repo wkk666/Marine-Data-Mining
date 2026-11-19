@@ -1,0 +1,13 @@
+﻿dataset,resolution,border_candidates,bbox_removed,new_exact_points,original_exact_points,internal_accepted_points,selected_points
+uniform_A,6,3158,1334,1824,3158,724,2155
+uniform_A,7,1295,449,846,1295,1500,2155
+uniform_A,8,522,184,338,522,1875,2155
+uniform_B,6,3117,1322,1795,3117,752,2121
+uniform_B,7,1294,439,855,1294,1491,2121
+uniform_B,8,500,155,345,500,1859,2121
+boundary_A,6,8636,3153,5483,8636,158,4440
+boundary_A,7,8198,2965,5233,8198,322,4440
+boundary_A,8,7674,2779,4895,7674,580,4440
+boundary_B,6,8619,3082,5537,8619,166,4438
+boundary_B,7,8221,2906,5315,8221,316,4438
+boundary_B,8,7668,2725,4943,7668,574,4438

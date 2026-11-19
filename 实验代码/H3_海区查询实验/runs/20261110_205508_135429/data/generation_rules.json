@@ -1,0 +1,54 @@
+{
+  "all_data_simulated": true,
+  "seed": 20261110,
+  "rng": "numpy.Generator(PCG64)",
+  "uniform_points": 10000,
+  "probe_points": 32,
+  "total_points": 10032,
+  "longitude_latitude_extent": [
+    121.875,
+    29.875,
+    122.375,
+    30.375
+  ],
+  "polygon_vertices_lon_lat": [
+    [
+      122.0,
+      30.0
+    ],
+    [
+      122.25,
+      30.0
+    ],
+    [
+      122.25,
+      30.25
+    ],
+    [
+      122.15625,
+      30.25
+    ],
+    [
+      122.15625,
+      30.09375
+    ],
+    [
+      122.09375,
+      30.09375
+    ],
+    [
+      122.09375,
+      30.25
+    ],
+    [
+      122.0,
+      30.25
+    ]
+  ],
+  "uniform_distribution": "independent uniform longitude and latitude; not equal-area uniform",
+  "probe_rule": "each of 8 edges: exact midpoint + inward/outward offset; also all 8 vertices",
+  "probe_offset_degrees": 1e-07,
+  "boundary_included": true,
+  "geometry_model": "local planar straight segments in longitude/latitude; no geodesic-distance claims",
+  "records": "unique observation IDs; one fixed synthetic snapshot; no AIS or vessel deduplication"
+}

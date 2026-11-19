@@ -1,0 +1,139 @@
+{
+  "status": "rendered_existing_word_pdf",
+  "dpi": 140,
+  "renderer": "C:\\Users\\wkc\\.codex\\plugins\\cache\\openai-primary-runtime\\documents\\26.1110.11613\\skills\\documents\\render_docx.py",
+  "renderer_sha256": "8b48b8f05f30cc6c7b5a7bd8e18e7ea93a61aec1ea601026a3358b2105f0903a",
+  "conversion": "Native Word PDF supplied to packaged renderer.rasterize; no soffice",
+  "docx": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\实验报告_审阅版.docx",
+  "pdf": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\实验报告_审阅版.pdf",
+  "docx_sha256": "0949b716dd27ca97f70783ace0f3596ec75a8dd4e8d0860e56be1b8713546270",
+  "pdf_sha256": "97d01634d8b70ba42da0e045e76cf2c0d944e3e01b415e839fecc7569e8bdc94",
+  "pages": [
+    {
+      "physical_page": 1,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-1.png",
+      "sha256": "8cf80136c5b81766ba8a3d330ad78190adc28c6b184afe433c5d14080794e4ef"
+    },
+    {
+      "physical_page": 2,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-2.png",
+      "sha256": "f2feba53710424dd9a37b26ba57be276a10201e90cabfbe1390dbf2972ee24bc"
+    },
+    {
+      "physical_page": 3,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-3.png",
+      "sha256": "772cba89ec732c43de77f22a3c0e6f7f7edc35d8cf6b173fdf54eb3372090daa"
+    },
+    {
+      "physical_page": 4,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-4.png",
+      "sha256": "e6259f18249c90adb1cc9c48ffdcd2f80d0e778fba9f8816940461230a394072"
+    },
+    {
+      "physical_page": 5,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-5.png",
+      "sha256": "ebc25ca419c083697a82b63d757724b7053ff982f303d164ec534ee14d851a0c"
+    },
+    {
+      "physical_page": 6,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-6.png",
+      "sha256": "73581860f5401cce6625002ec5a8e9e4219e5f1e8f6368db8e3736a1790f6c42"
+    },
+    {
+      "physical_page": 7,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-7.png",
+      "sha256": "5ed3fc0ced06f50ed49e668eff01804eae99c5f22fdab1298639c987583cd8ae"
+    },
+    {
+      "physical_page": 8,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-8.png",
+      "sha256": "27637c365fbe059eef28d04a61b9468d7032c0c5259b5745d595ccc561edb2fa"
+    },
+    {
+      "physical_page": 9,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-9.png",
+      "sha256": "1f964afd6e039b463edfe6759a31b3ea3e057455e698246d1d3a50090d0a0430"
+    },
+    {
+      "physical_page": 10,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-10.png",
+      "sha256": "3bb58f8128c99ba7cb517b6c19a6e3d15cf40c012564a15060d7bd09f49e22e1"
+    },
+    {
+      "physical_page": 11,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-11.png",
+      "sha256": "9d54375b9ce0fce354eb8fc5c9b9fa51271841bd22169a7fdb9b4adffc94f92c"
+    },
+    {
+      "physical_page": 12,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-12.png",
+      "sha256": "9f6e6ff22e7e2443e92684c9241dd85a5c0d1f590850a5e9faba8c055218ed1e"
+    },
+    {
+      "physical_page": 13,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-13.png",
+      "sha256": "bc9afc3509e67acd7d6a76dcb322d66ad9231d5b6cc62db97e5c3eca4010a5ba"
+    },
+    {
+      "physical_page": 14,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-14.png",
+      "sha256": "06bc517fc51de72931645197c4758d803b92e3014a2e2aa7e32cb04fd125279b"
+    },
+    {
+      "physical_page": 15,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-15.png",
+      "sha256": "db1b7b3c1f853e55d8278f92953543916f9916e840615c3b72c38674c3dceea7"
+    },
+    {
+      "physical_page": 16,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-16.png",
+      "sha256": "5a80f7eb92be41d7084573db8d7da095522108e36c4604e65e572db18abbca5e"
+    },
+    {
+      "physical_page": 17,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-17.png",
+      "sha256": "4fbbddb76344b4acca377186a9e7a3a1168ee8c4dcc2aff473dcdcc63f798a97"
+    },
+    {
+      "physical_page": 18,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-18.png",
+      "sha256": "bfd9fda0b7254de87e83650ea623415b94db7c3edfd94effaf3a94aca9b04507"
+    },
+    {
+      "physical_page": 19,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-19.png",
+      "sha256": "03d4ef0a7ffa192862bafe0b0f283f1ed762c0d3b33125622806eec77deaebe8"
+    },
+    {
+      "physical_page": 20,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-20.png",
+      "sha256": "ede08d5ca29c222da3bf2bf866d2456e27f7245c3306e360c284df92febe6a13"
+    },
+    {
+      "physical_page": 21,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-21.png",
+      "sha256": "57e73b89d47609d707388301ac51fb1add3525313cb4cff4e054ba1d04a9e188"
+    },
+    {
+      "physical_page": 22,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-22.png",
+      "sha256": "aecb666cc97b5938001698f0cb28bac242d10de455eb5a510775ed8cff0dd9b4"
+    },
+    {
+      "physical_page": 23,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-23.png",
+      "sha256": "cd2c505d834e8568ba7867f5e4e7612ba078d30cd0df3648480aab8956984cd3"
+    },
+    {
+      "physical_page": 24,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-24.png",
+      "sha256": "3e24c144c8dcff5b9ce4a989831dc804244a4dea185463d7110692249973f707"
+    },
+    {
+      "physical_page": 25,
+      "png": "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版预览\\page-25.png",
+      "sha256": "302c7fcaeb35a3133bfc0cdbd8a3f55ae9ee3538b6a53a393c9e6b235c48fa7f"
+    }
+  ],
+  "docx_pdf_unchanged": true
+}

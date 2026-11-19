@@ -1,0 +1,23 @@
+{
+  "case": {
+    "name": "uniform_3102",
+    "seed": 3102,
+    "distribution": "uniform"
+  },
+  "generation": {
+    "uniform_component_points": 10000
+  },
+  "all_data_simulated": true,
+  "protocol": {
+    "random_points_per_dataset": 10000,
+    "boundary_cluster": {
+      "uniform_component_points": 10000,
+      "inside_band_points": 0,
+      "outside_band_points": 0,
+      "max_distance_to_region_boundary_degrees": 0.002,
+      "proposal_batch_size": 32768
+    }
+  },
+  "geometry_model": "same local lon/lat planar straight segments as round 1",
+  "boundary_probes_identical_to_previous_round": true
+}

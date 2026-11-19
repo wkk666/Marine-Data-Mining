@@ -1,0 +1,53 @@
+{
+  "target": "实验报告_审阅版.docx",
+  "source_sha256": "7b3314ba7fb942dd534f3ab560b9978eff0c430fa70f09d1e5577ab6161ffa69",
+  "source_unchanged": true,
+  "figures": [
+    "图1 固定模拟海区与三种模拟船位分布",
+    "图2 四种固定方法的完整总成本",
+    "图3a 样本二选一相对K-only",
+    "图4 比例估计与冻结决策区间",
+    "图3b 样本四选一相对样本二选一",
+    "图3c 样本四选一相对固定直接查询",
+    "图3d 样本四选一相对固定r7"
+  ],
+  "captions": [
+    "图1",
+    "图2",
+    "图3a",
+    "图4",
+    "图3b",
+    "图3c",
+    "图3d"
+  ],
+  "tables": [
+    {
+      "kind": "",
+      "rows": 3
+    },
+    {
+      "kind": "Aparam",
+      "rows": 4
+    },
+    {
+      "kind": "Ainterval",
+      "rows": 5
+    },
+    {
+      "kind": "B",
+      "rows": 18
+    },
+    {
+      "kind": "C",
+      "rows": 18
+    },
+    {
+      "kind": "D",
+      "rows": 18
+    }
+  ],
+  "native_equation_count": 28,
+  "layout": "A4 portrait 160mm text width; appendices B-D landscape",
+  "fonts": "宋体11pt / Times New Roman; 黑体 headings; Cambria Math; table10.5pt; caption9.5pt",
+  "future_master": "DOCX; do not rebuild over later manual edits without explicit overwrite"
+}

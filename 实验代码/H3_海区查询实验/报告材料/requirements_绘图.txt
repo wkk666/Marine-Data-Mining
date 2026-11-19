@@ -1,0 +1,13 @@
+# 本次实际绘图版本；独立绘图target不修改原实验环境。
+matplotlib==3.10.7
+numpy==2.3.5
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.60.1
+kiwisolver==1.4.9
+pyparsing==3.2.5
+six==1.17.0
+# 以下三项本次复用Python宿主环境；在此记录其精确版本。
+Pillow==13.0.0
+packaging==26.3
+python-dateutil==4.0.0

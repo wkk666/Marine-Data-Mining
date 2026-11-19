@@ -1,0 +1,8 @@
+{
+  "name": "moderate_3202",
+  "distribution": "moderate",
+  "seed": 3202,
+  "uniform_points": 6000,
+  "inside_band": 2000,
+  "outside_band": 2000
+}

@@ -1,0 +1,5 @@
+﻿dataset,original_ranking,bbox_ranking,all_seven_ranking,original_best,original_best_ms,bbox_best,bbox_best_ms
+uniform_A,h3_r7 < h3_r6 < h3_r8 < direct,h3_r7_bbox < h3_r6_bbox < h3_r8_bbox < direct,h3_r7_bbox < h3_r7 < h3_r6_bbox < h3_r6 < h3_r8 < h3_r8_bbox < direct,h3_r7,113.8781,h3_r7_bbox,107.2419
+uniform_B,h3_r7 < h3_r6 < h3_r8 < direct,h3_r7_bbox < h3_r6_bbox < h3_r8_bbox < direct,h3_r7_bbox < h3_r7 < h3_r6_bbox < h3_r6 < h3_r8_bbox < h3_r8 < direct,h3_r7,113.6371,h3_r7_bbox,108.687
+boundary_A,direct < h3_r7 < h3_r6 < h3_r8,h3_r6_bbox < h3_r7_bbox < direct < h3_r8_bbox,h3_r6_bbox < h3_r7_bbox < direct < h3_r8_bbox < h3_r7 < h3_r6 < h3_r8,direct,425.7462,h3_r6_bbox,414.3207
+boundary_B,direct < h3_r7 < h3_r6 < h3_r8,h3_r6_bbox < h3_r7_bbox < direct < h3_r8_bbox,h3_r6_bbox < h3_r7_bbox < direct < h3_r8_bbox < h3_r7 < h3_r6 < h3_r8,direct,432.1351,h3_r6_bbox,421.0098

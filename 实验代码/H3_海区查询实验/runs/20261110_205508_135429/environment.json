@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-11-10T20:55:08.400973+08:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "C:\\Users\\wkc\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu": "AMD Ryzen 9 9955HX3D 16-Core Processor",
+  "logical_cpus": 32,
+  "numpy": "2.3.5",
+  "shapely": "2.2.0",
+  "geos": "3.14.1",
+  "h3": {
+    "c": "4.5.0",
+    "python": "4.5.0"
+  },
+  "clock": "namespace(implementation='QueryPerformanceCounter()', monotonic=True, adjustable=False, resolution=1e-07)",
+  "single_process": true,
+  "method_order_seed": 20261111,
+  "gc_disabled_during_benchmark": true
+}

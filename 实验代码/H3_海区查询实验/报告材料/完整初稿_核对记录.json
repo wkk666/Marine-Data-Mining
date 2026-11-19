@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "relative_links_checked": 66,
+  "missing_relative_links": [],
+  "old_report_materials_checked": 21,
+  "all_old_report_materials_unchanged": true,
+  "old_experiment_read_only_verifier_passed": true,
+  "source_data_remeasurement_or_refitting": false,
+  "body_image_count": 7,
+  "body_figures_width_mm": 160,
+  "minimum_figure_font_pt": 8,
+  "original_overview_retained": true,
+  "appendix_tables_scenarios_each": 18,
+  "strong_3301_K1000": {
+    "difference_of_total_medians_ms": -1.835899999999981,
+    "median_of_round_differences_ms": 0.3621,
+    "paired_iqr_ms": [
+      -1.76495,
+      1.43485
+    ]
+  },
+  "known_placeholders": [
+    "姓名",
+    "学号",
+    "任课教师",
+    "提交日期",
+    "课件年份",
+    "公开GitHub链接"
+  ],
+  "no_editorial_notes_in_main_report": true,
+  "no_machine_absolute_paths_in_report": true,
+  "report_sha256": "7b3314ba7fb942dd534f3ab560b9978eff0c430fa70f09d1e5577ab6161ffa69",
+  "independent_review": "passed: appendix A exact parameters and B/C/D all18 rows checked against saved sources; relative links and statistical definitions checked"
+}

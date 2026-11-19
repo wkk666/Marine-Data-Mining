@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checks": [
+    "all four selected ID sets equal",
+    "32 independently labelled boundary probes pass",
+    "zero false positives and false negatives",
+    "all query phase nanoseconds sum to total",
+    "all preparation stages sum to total",
+    "each one-shot trial equals preparation plus first query",
+    "reported medians recomputed from raw CSV",
+    "source and result SHA-256 fingerprints checked"
+  ],
+  "preparation_raw_records": 28,
+  "query_raw_records": 124,
+  "boundary_probes": 32,
+  "selected_records": 2102
+}

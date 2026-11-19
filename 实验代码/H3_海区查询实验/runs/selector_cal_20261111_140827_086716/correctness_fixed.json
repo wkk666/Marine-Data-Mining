@@ -1,0 +1,310 @@
+{
+  "uniform_A": {
+    "direct": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2155,
+      "shared_geometry_identity": true,
+      "coverage": null
+    },
+    "r6": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2155,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2155,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2155,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    }
+  },
+  "uniform_B": {
+    "direct": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2121,
+      "shared_geometry_identity": true,
+      "coverage": null
+    },
+    "r6": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2121,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2121,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 2121,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    }
+  },
+  "boundary_A": {
+    "direct": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4440,
+      "shared_geometry_identity": true,
+      "coverage": null
+    },
+    "r6": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4440,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4440,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4440,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    }
+  },
+  "boundary_B": {
+    "direct": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4438,
+      "shared_geometry_identity": true,
+      "coverage": null
+    },
+    "r6": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4438,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4438,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "probes_passed": true,
+      "selected_points": 4438,
+      "shared_geometry_identity": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "checks": {
+    "original_markdown_unchanged": true,
+    "online_task_cost_boundary": true,
+    "separate_appendix_references": true,
+    "K1000_qualification": true,
+    "key_results_retained": true,
+    "course_extensions_retained": true,
+    "repository_placeholder": true,
+    "no_markdown_blocks": true,
+    "full_precision_model_parameters": true,
+    "editable_math": true,
+    "display_math": true,
+    "editable_pseudocode": true,
+    "seven_figures": true,
+    "all_table_headers_repeat": true,
+    "complete_18_scenario_tables": true,
+    "six_numbered_references": true,
+    "preview_matches_docx": true,
+    "preview_matches_pdf": true,
+    "captions_same_page": true,
+    "continuous_page_numbers": true,
+    "pdf_page_count": true,
+    "no_blank_pages": true,
+    "no_text_outside_safe_bounds": true
+  },
+  "all_passed": true,
+  "page_bounds": [
+    {
+      "physical_page": 1,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 112,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 2,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 1079,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 3,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 941,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 4,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 966,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 5,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 860,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 6,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 911,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 7,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 892,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 8,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 591,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 9,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 1040,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 10,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 357,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 11,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 461,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 12,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 1027,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 13,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 494,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 14,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 756,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 15,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 1005,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 16,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 1335,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 17,
+      "width_pt": 841.9,
+      "height_pt": 595.3,
+      "char_count": 1456,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 18,
+      "width_pt": 841.9,
+      "height_pt": 595.3,
+      "char_count": 1510,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 19,
+      "width_pt": 841.9,
+      "height_pt": 595.3,
+      "char_count": 1227,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 20,
+      "width_pt": 841.9,
+      "height_pt": 595.3,
+      "char_count": 1153,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 21,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 2372,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 22,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 2156,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 23,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 192,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 24,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 134,
+      "outside_safe_bounds": ""
+    },
+    {
+      "physical_page": 25,
+      "width_pt": 595.3,
+      "height_pt": 841.9,
+      "char_count": 100,
+      "outside_safe_bounds": ""
+    }
+  ],
+  "physical_pages": 25,
+  "manual_visual_inspection": "逐页打开140dpi PNG；公式、图注、数字、表头、页码和页边距均复查。",
+  "source_sha256": "7b3314ba7fb942dd534f3ab560b9978eff0c430fa70f09d1e5577ab6161ffa69",
+  "docx_sha256": "0949b716dd27ca97f70783ace0f3596ec75a8dd4e8d0860e56be1b8713546270",
+  "pdf_sha256": "97d01634d8b70ba42da0e045e76cf2c0d944e3e01b415e839fecc7569e8bdc94",
+  "frozen_model_sha256": "f128d8595195128ae0d6f8f786fe77fb6951971b26c3e4de2841134aa7d1d096",
+  "scope": "只检查内容转换与排版，不重新生成数据、拟合或执行查询计时。"
+}

@@ -1,0 +1,19 @@
+{
+  "wall_stages_ns": {
+    "old_input_loading_and_correctness_wall_ns": 509943400,
+    "fixed_calibration_benchmark_wall_ns": 31585139800,
+    "fit_and_K100_check_wall_ns": 12355700,
+    "normal_selection_cost_benchmark_wall_ns": 652594000,
+    "diagnostic_selection_benchmark_wall_ns": 356785000,
+    "strategy_correctness_wall_ns": 137107100,
+    "analytic_decision_intervals_wall_ns": 207500,
+    "whole_job_wall_until_accounting_export_ns": 34684232100
+  },
+  "core_subsets_ns": {
+    "fixed_method_core_measured_ns": 31381819300,
+    "normal_selection_core_measured_ns": 605628500,
+    "normal_selection_common_geometry_ns": 14275200,
+    "diagnostic_selection_core_measured_ns": 327493600
+  },
+  "note": "overall wall encloses stages and core subsets; do not add them again"
+}

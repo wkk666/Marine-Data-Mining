@@ -1,0 +1,43 @@
+{
+  "plot_script_version": "report-figures-v1",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.7",
+  "font": "C:\\Windows\\Fonts\\msyh.ttc",
+  "font_name": "Microsoft YaHei",
+  "dependencies": {
+    "matplotlib": "3.10.7",
+    "numpy": "2.3.5",
+    "Pillow": "13.0.0",
+    "packaging": "26.3",
+    "python-dateutil": "4.0.0",
+    "contourpy": "1.3.3",
+    "cycler": "0.12.1",
+    "fonttools": "4.60.1",
+    "kiwisolver": "1.4.9",
+    "pyparsing": "3.2.5",
+    "six": "1.17.0"
+  },
+  "font_sha256": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+  "input_sha256": {
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\summary.csv": "c768a5806e29d5578c80aa6e037dedcca010eaa584b30825c40d5c3ae67725b3",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\paired_differences.csv": "730fc0cf9ab66d44fd674d5514ce935ea5a5d9908243037a06f92e3bb8f17bec",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\sample_feature_errors.csv": "11a96c399d19e543e3cf20f22572b47b5218c3dced84f023c1bab8ed650e7922",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\selector_cal_20261111_140827_086716\\decision_intervals.csv": "cb6bd25c1a9cbc2a4d2b6c1bc17a27e49bef2953e5a40e050a3783e20dff4164",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\online_model.json": "f128d8595195128ae0d6f8f786fe77fb6951971b26c3e4de2841134aa7d1d096",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\datasets\\uniform_3101\\data\\simulated_points.csv": "07c2d4e4702528455be126251ec3eca68d052377415fddef523cf6e2e8348d2a",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\datasets\\uniform_3101\\data\\simulated_sea.geojson": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\datasets\\moderate_3201\\data\\simulated_points.csv": "4f9e8a4d843dd68ae5b095f15f4b0e5aabce9d15f145d08134c3f88cdd426260",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\datasets\\moderate_3201\\data\\simulated_sea.geojson": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\datasets\\strong_3301\\data\\simulated_points.csv": "fd96fabd1f37d144e3f7aea9bdacc3f7495f8e17a26c34ea5b604df1ea87811e",
+    "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\runs\\validation_20261111_151150_257869\\datasets\\strong_3301\\data\\simulated_sea.geojson": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+  },
+  "all_inputs_unchanged": true,
+  "query_or_generation_modules_imported": false,
+  "new_random_sampling": false,
+  "query_timing_or_fitting_executed": false,
+  "warnings": [],
+  "quantile": "numpy.quantile(method='linear')",
+  "png_dpi": 300,
+  "vector": "SVG; font outlines"
+}

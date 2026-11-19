@@ -1,0 +1,3645 @@
+{
+  "仓库": "https://github.com/wkk666/Marine-Data-Mining",
+  "报告和证据": "定稿与便捷副本均核对原字节。原实验指纹继续在项目内使用。",
+  "最终验证目录": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869",
+  "说明": "清单自身不计入逐文件指纹。发布前原路径记载的是候选目录内的相对位置。",
+  "文件数_不含清单": 549,
+  "总字节_不含清单": 71685322,
+  "迁移中原字节一致的项目文件数": 492,
+  "更新的三个项目索引": [
+    "报告材料/审阅版说明.md",
+    "提交材料清单.md",
+    "项目总览与复现.md"
+  ],
+  "便捷副本": [
+    {
+      "路径": "实验报告/海洋数据挖掘实验报告.docx",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/海洋数据挖掘实验报告.docx",
+      "原候选位置": "H3_海区查询实验/报告材料/海洋数据挖掘实验报告.docx",
+      "字节": 1667964,
+      "SHA256": "d587e738e671dbcd74396de7798c5cd867d87bd256fbc47d5e7ced57becaa1ce"
+    },
+    {
+      "路径": "实验报告/海洋数据挖掘实验报告.pdf",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/海洋数据挖掘实验报告.pdf",
+      "原候选位置": "H3_海区查询实验/报告材料/海洋数据挖掘实验报告.pdf",
+      "字节": 5852959,
+      "SHA256": "9af23db378db0216cf99e0f6bb4e93bd09d65977822ba8ece9e9e5f9c9d9bcc4"
+    },
+    {
+      "路径": "实验数据/moderate_3201/simulated_points.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_points.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_points.csv",
+      "字节": 642121,
+      "SHA256": "4f9e8a4d843dd68ae5b095f15f4b0e5aabce9d15f145d08134c3f88cdd426260"
+    },
+    {
+      "路径": "实验数据/moderate_3201/simulated_sea.geojson",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_sea.geojson",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+    },
+    {
+      "路径": "实验数据/moderate_3201/generation_rules.json",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/generation_rules.json",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/generation_rules.json",
+      "字节": 768,
+      "SHA256": "0b46b6ea78ce1104e777e02a3be0531d34306cf62c399705907553fb56305421"
+    },
+    {
+      "路径": "实验数据/moderate_3202/simulated_points.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_points.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_points.csv",
+      "字节": 642179,
+      "SHA256": "567059c94fd7821ff5484b08dc89660621498d3a4c7ecb20134cad5e39ad7cf1"
+    },
+    {
+      "路径": "实验数据/moderate_3202/simulated_sea.geojson",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_sea.geojson",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+    },
+    {
+      "路径": "实验数据/moderate_3202/generation_rules.json",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/generation_rules.json",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/generation_rules.json",
+      "字节": 768,
+      "SHA256": "f3b0a6a9bf5ad89a78fd881d410ade754ce41f78f5b4c5121777f2e0244fc9e3"
+    },
+    {
+      "路径": "实验数据/strong_3301/simulated_points.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_points.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_points.csv",
+      "字节": 656094,
+      "SHA256": "fd96fabd1f37d144e3f7aea9bdacc3f7495f8e17a26c34ea5b604df1ea87811e"
+    },
+    {
+      "路径": "实验数据/strong_3301/simulated_sea.geojson",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_sea.geojson",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+    },
+    {
+      "路径": "实验数据/strong_3301/generation_rules.json",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/generation_rules.json",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/generation_rules.json",
+      "字节": 766,
+      "SHA256": "5aa247ad633c0c4971240bcd4efc880955a4ab812ccce2560700999dc19ef09f"
+    },
+    {
+      "路径": "实验数据/strong_3302/simulated_points.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_points.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_points.csv",
+      "字节": 656006,
+      "SHA256": "ac492714fbd3d13d2c32319fe2d6ef3e41126a0c22e3a034aa5e2ffd0c4a855e"
+    },
+    {
+      "路径": "实验数据/strong_3302/simulated_sea.geojson",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_sea.geojson",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+    },
+    {
+      "路径": "实验数据/strong_3302/generation_rules.json",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/generation_rules.json",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/generation_rules.json",
+      "字节": 766,
+      "SHA256": "bdbdbaeebfd7de61f44050212244fbe17117b6fc1f772ed2ed0128e4cebd9274"
+    },
+    {
+      "路径": "实验数据/uniform_3101/simulated_points.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_points.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_points.csv",
+      "字节": 628134,
+      "SHA256": "07c2d4e4702528455be126251ec3eca68d052377415fddef523cf6e2e8348d2a"
+    },
+    {
+      "路径": "实验数据/uniform_3101/simulated_sea.geojson",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_sea.geojson",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+    },
+    {
+      "路径": "实验数据/uniform_3101/generation_rules.json",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/generation_rules.json",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/generation_rules.json",
+      "字节": 631,
+      "SHA256": "ba96103a748cf362194d56f52653558159ef5878c5a755f56bfa019420071c3a"
+    },
+    {
+      "路径": "实验数据/uniform_3102/simulated_points.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_points.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_points.csv",
+      "字节": 628089,
+      "SHA256": "77523855cc42dd5305f882db92f883323e1c67ba71ced5e74c6ffa2c22df439b"
+    },
+    {
+      "路径": "实验数据/uniform_3102/simulated_sea.geojson",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_sea.geojson",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+    },
+    {
+      "路径": "实验数据/uniform_3102/generation_rules.json",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/generation_rules.json",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/generation_rules.json",
+      "字节": 631,
+      "SHA256": "617adea7778550bcf3ec9d3dfc1f8120b1b5d7d3de3b5ed67e6b143a149521fc"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/独立验证结果.md",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/独立验证结果.md",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/独立验证结果.md",
+      "字节": 13782,
+      "SHA256": "f0398a3944a7f7544dc70f9a4ffc76a937b9f26afb01a7faef716155f0f00665"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/结果要点与净节省表.md",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/结果要点与净节省表.md",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/结果要点与净节省表.md",
+      "字节": 9811,
+      "SHA256": "87678facdf443c904c29918ee1e28bf366b6967a4ad32a7d3ae92fc6947f585c"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/summary.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/summary.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/summary.csv",
+      "字节": 14225,
+      "SHA256": "c768a5806e29d5578c80aa6e037dedcca010eaa584b30825c40d5c3ae67725b3"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/comparisons.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/comparisons.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/comparisons.csv",
+      "字节": 14568,
+      "SHA256": "72a7ce6417b6d3ee8280ee448f3168b246107f5932a4fb8d403eb5d04c4ce728"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/correctness.json",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/correctness.json",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/correctness.json",
+      "字节": 25727,
+      "SHA256": "4c5c2e93188def2c5f948d3dd3719a6f224c2e979074b283b708f58624d65736"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/posthoc_oracle.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_oracle.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_oracle.csv",
+      "字节": 1249,
+      "SHA256": "4d913f2e53a5f8f8609069f2b3b29e15de0015f0feade64df930b41a283c7286"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/strategy_regret.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/strategy_regret.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/strategy_regret.csv",
+      "字节": 17725,
+      "SHA256": "7fe485d2a693b61e418ff0e2a6dd0d47b0edb5cd8c92be10d3e8a414e11a1c6b"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/posthoc_diagnostics.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_diagnostics.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_diagnostics.csv",
+      "字节": 10968,
+      "SHA256": "d61a96da57d623a4752cd74b08f854c057f7e649cc85e12477ed66dc6bb7ff3b"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/prerecommendation_summary.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendation_summary.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendation_summary.csv",
+      "字节": 3296,
+      "SHA256": "9e322475df3371063725658f3ccccaff20eea3aa4646c7e3d87ac266ac30f119"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/sample_feature_errors.csv",
+      "项目内来源": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/sample_feature_errors.csv",
+      "原候选位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/sample_feature_errors.csv",
+      "字节": 753,
+      "SHA256": "11a96c399d19e543e3cf20f22572b47b5218c3dced84f023c1bab8ed650e7922"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图1_海区与点分布.png",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.png",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.png",
+      "字节": 377185,
+      "SHA256": "27f26be78e972956442435953c32a60b505f08a8e493340563740edda7fd99ff"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图1_海区与点分布.svg",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.svg",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.svg",
+      "字节": 3422062,
+      "SHA256": "1885bf423c0c172ca7eb0de92f2a2f8a38e1a09029270b984b27c2cc279d6d42"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图2_固定方法完整成本.png",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.png",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.png",
+      "字节": 224028,
+      "SHA256": "2e54075f566ac0e37a6ee74d7faeac62ffc0e84387c9e0ba40c63052cb398333"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图2_固定方法完整成本.svg",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.svg",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.svg",
+      "字节": 220420,
+      "SHA256": "a0e9e237e0936a0783e9b50af5ed7913f29a0c5a42a66f60445173577346ba80"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3a_二选一相对Konly.png",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.png",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.png",
+      "字节": 234416,
+      "SHA256": "8ff7a9f9f0d839aa1c43751576115ad5afc2263f815bcaa4f1f35675cc6b1c4f"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3a_二选一相对Konly.svg",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.svg",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.svg",
+      "字节": 149835,
+      "SHA256": "840a0f84b56e746c4501c1bb1245142a16de9f9f6e2b12f235d44163ba0f0f1d"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3b_四选一相对二选一.png",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.png",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.png",
+      "字节": 239920,
+      "SHA256": "177915f0ce5049dca2e09f1ad66190c9db5183d654f4912725b84e34eada3d1f"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3b_四选一相对二选一.svg",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.svg",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.svg",
+      "字节": 147322,
+      "SHA256": "512ed0d6df8be8c0fc2556fb9d0bc8ae906ff21082a3989ef889ef4be9d85296"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3c_四选一相对直接.png",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.png",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.png",
+      "字节": 233248,
+      "SHA256": "01493252eab5c1c8a19b4245a29d1c3c238d2c6e318c21044238afd24a3c7a9d"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3c_四选一相对直接.svg",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.svg",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.svg",
+      "字节": 153708,
+      "SHA256": "6eabb11f59d21c053d7b0fcaa3869fd1e3ad918af0da75e98fed30a5efccbb0d"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3d_四选一相对r7.png",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.png",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.png",
+      "字节": 215984,
+      "SHA256": "8ff87b035d533ae8b59b494297bbeff2213c06691f8d84ec0451d3b89224d9a8"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3d_四选一相对r7.svg",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.svg",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.svg",
+      "字节": 148184,
+      "SHA256": "47e9fcfb9857872722777dbcacafbcba8a038e5f37f0d10ba480ced5dbdaf8a0"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图4_比例与冻结区间.png",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.png",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.png",
+      "字节": 208952,
+      "SHA256": "bf15f9a164b8f34d6fc6a41c59ac76186f7a669d09ac2b59a25ae2d52fc2bb8a"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图4_比例与冻结区间.svg",
+      "项目内来源": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.svg",
+      "原候选位置": "H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.svg",
+      "字节": 144771,
+      "SHA256": "4a95e8113760b67f36c847929a70d5701538607d339d4cb599c92224cc49dd06"
+    },
+    {
+      "路径": "作业过程/阶段说明/探索对照说明.md",
+      "项目内来源": "实验代码/H3_海区查询实验/探索对照说明.md",
+      "原候选位置": "H3_海区查询实验/探索对照说明.md",
+      "字节": 5653,
+      "SHA256": "d07a04d01d1361df54461fd8b33188c125cb198b7eacf05ffd06da67bae6979e"
+    },
+    {
+      "路径": "作业过程/阶段说明/矩形筛选对照说明.md",
+      "项目内来源": "实验代码/H3_海区查询实验/矩形筛选对照说明.md",
+      "原候选位置": "H3_海区查询实验/矩形筛选对照说明.md",
+      "字节": 4068,
+      "SHA256": "aaa0daa963d736f244f54ad813a46d215478b6c98979df74b2f1e9f25d293c81"
+    },
+    {
+      "路径": "作业过程/阶段说明/选择器校准说明.md",
+      "项目内来源": "实验代码/H3_海区查询实验/选择器校准说明.md",
+      "原候选位置": "H3_海区查询实验/选择器校准说明.md",
+      "字节": 5229,
+      "SHA256": "6d47ca3323217c9d4516be657f1cd83ff62e17e48dd53775466a017ce7e20de8"
+    },
+    {
+      "路径": "作业过程/阶段说明/独立验证复现说明.md",
+      "项目内来源": "实验代码/H3_海区查询实验/独立验证复现说明.md",
+      "原候选位置": "H3_海区查询实验/独立验证复现说明.md",
+      "字节": 5528,
+      "SHA256": "f4d98e86595b5ae0f5a802993bbeadcb6443da3f45c53f2e54a3d757615bc1ef"
+    }
+  ],
+  "文件": [
+    {
+      "路径": ".gitattributes",
+      "字节": 160,
+      "SHA256": "7caef617bc1ab1dfa3e881c975f5eee38a7dfc9fad876fc50e463e3333e64acc"
+    },
+    {
+      "路径": "README.md",
+      "字节": 1718,
+      "SHA256": "86eea565e1052fe6ab1e88dc3939276351d0a2ae60b8f3ec9168ba7abb09d00e"
+    },
+    {
+      "路径": "作业过程/README.md",
+      "字节": 2362,
+      "SHA256": "1e1fd3ac981d267e079b14b175ffdb41c2a6e33172251a04d5893df8be0dfe7e"
+    },
+    {
+      "路径": "作业过程/阶段说明/探索对照说明.md",
+      "字节": 5653,
+      "SHA256": "d07a04d01d1361df54461fd8b33188c125cb198b7eacf05ffd06da67bae6979e",
+      "原位置": "H3_海区查询实验/探索对照说明.md"
+    },
+    {
+      "路径": "作业过程/阶段说明/独立验证复现说明.md",
+      "字节": 5528,
+      "SHA256": "f4d98e86595b5ae0f5a802993bbeadcb6443da3f45c53f2e54a3d757615bc1ef",
+      "原位置": "H3_海区查询实验/独立验证复现说明.md"
+    },
+    {
+      "路径": "作业过程/阶段说明/矩形筛选对照说明.md",
+      "字节": 4068,
+      "SHA256": "aaa0daa963d736f244f54ad813a46d215478b6c98979df74b2f1e9f25d293c81",
+      "原位置": "H3_海区查询实验/矩形筛选对照说明.md"
+    },
+    {
+      "路径": "作业过程/阶段说明/选择器校准说明.md",
+      "字节": 5229,
+      "SHA256": "6d47ca3323217c9d4516be657f1cd83ff62e17e48dd53775466a017ce7e20de8",
+      "原位置": "H3_海区查询实验/选择器校准说明.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/bbox_ablation.py",
+      "字节": 24332,
+      "SHA256": "974aa69f6949b70834cb7d700fba864dde12a9ddaea1f5e0cb92776b8dea23e5",
+      "原位置": "H3_海区查询实验/bbox_ablation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/bbox_ablation_protocol.json",
+      "字节": 1988,
+      "SHA256": "a109b9574f7fedf520a3b107633f81eef8230e0a957f156eeb9ed9fa727ee245",
+      "原位置": "H3_海区查询实验/bbox_ablation_protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/calibrate_selector.py",
+      "字节": 29677,
+      "SHA256": "ea2c99289183cb549cf651e60bb84fe15ab5778e4a77de7db0cadd42a2efa7f7",
+      "原位置": "H3_海区查询实验/calibrate_selector.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/exploration_experiment.py",
+      "字节": 25661,
+      "SHA256": "4022d648e4be4884706ed841f36863ea7099a40b5e41ec418482de54e3c9d373",
+      "原位置": "H3_海区查询实验/exploration_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/exploration_protocol.json",
+      "字节": 3152,
+      "SHA256": "f4b61974d8d39ff14b6907ae50d94e4c3ec6f4ad4d48e9bddd9e9c4a44f4af85",
+      "原位置": "H3_海区查询实验/exploration_protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/independent_validation_protocol.json",
+      "字节": 3606,
+      "SHA256": "759f86c97367de5bcab40b17217c4b30d516bd166713af860d326a82e7f4eaf7",
+      "原位置": "H3_海区查询实验/independent_validation_protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/LATEST_BBOX_ABLATION.txt",
+      "字节": 34,
+      "SHA256": "8f09f93fddf8285d756d23813e667d62bfa35791831bf704ce27a75272077497",
+      "原位置": "H3_海区查询实验/LATEST_BBOX_ABLATION.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/LATEST_EXPLORATION.txt",
+      "字节": 37,
+      "SHA256": "e3ace02cd041c412382a0eb7cb666df33d146316ee16176c23d0a84e93d5fd2a",
+      "原位置": "H3_海区查询实验/LATEST_EXPLORATION.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/LATEST_INDEPENDENT_VALIDATION.txt",
+      "字节": 40,
+      "SHA256": "72d1764930a018e26c70aaf494d3994305a2261652affff75adb32726d591ec5",
+      "原位置": "H3_海区查询实验/LATEST_INDEPENDENT_VALIDATION.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/LATEST_RUN.txt",
+      "字节": 29,
+      "SHA256": "6d5da3f19656037b65297595b1e7341c4b4279d2b8770c5c01f6cd6aa0a313dd",
+      "原位置": "H3_海区查询实验/LATEST_RUN.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/LATEST_SELECTOR_CALIBRATION.txt",
+      "字节": 42,
+      "SHA256": "9f486766a066106586ac6bb2dc35466bfbd47ab019a38fe99b3c83a1957b72ac",
+      "原位置": "H3_海区查询实验/LATEST_SELECTOR_CALIBRATION.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/README.md",
+      "字节": 7509,
+      "SHA256": "340313bb3380735b091ae1aabefc6222ee594735dffdd617c5b90edadeb78f02",
+      "原位置": "H3_海区查询实验/README.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/requirements.txt",
+      "字节": 38,
+      "SHA256": "40f50a5b1befe25db06c8d6bfd9b706d09f604f4bd64d7ada113f6c5d743d6e9",
+      "原位置": "H3_海区查询实验/requirements.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/run.ps1",
+      "字节": 1392,
+      "SHA256": "f1cf30f42b22a45d7e907c94c2b85946ef52e32271e2f2fd049307c9ffda050c",
+      "原位置": "H3_海区查询实验/run.ps1"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/run_experiment.py",
+      "字节": 29266,
+      "SHA256": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02",
+      "原位置": "H3_海区查询实验/run_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/run_independent_validation.py",
+      "字节": 28110,
+      "SHA256": "914481258e9ac90aed13a712d2e3a4763a402b6acbfc0bb30e7a2191c704554c",
+      "原位置": "H3_海区查询实验/run_independent_validation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/artifact_validation.json",
+      "字节": 571,
+      "SHA256": "eee6c9c389fcca6824dfa18c4d5a6b8a6f1e26532c48e59c8a72aa5e6a0491a0",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/artifact_validation.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/correctness.json",
+      "字节": 2781,
+      "SHA256": "260f9d97ea28d0cab601bd4ade225b48a0653069ccf0e617e6ed38e8d807c8a3",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/data/generation_rules.json",
+      "字节": 1125,
+      "SHA256": "e710e77fc4911c9b34af1e037365fbe0c941d40100e705ede41529fcf8e9261d",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/data/simulated_points.csv",
+      "字节": 628211,
+      "SHA256": "f20d44c7ef1e8356c98c14e529f51288fa577912d52b65b7146331c26e551103",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/data/simulated_sea.geojson",
+      "字节": 749,
+      "SHA256": "24dacb266f330ec19acba6bffbcb191e60aff0e97de836728cc70f7dee75b84d",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/environment.json",
+      "字节": 721,
+      "SHA256": "a8d460e7212fee9d63523e0b1cb596e513b83b13f8c2983ccc4745743a95f913",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/environment.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/parameters.json",
+      "字节": 95,
+      "SHA256": "d88fb225259a07630dda70c778fd6077640ce88b146c2ff930b976d6d6b21fa5",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/parameters.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "bd5db81f7791dfb4a4ab77f658cd4b45da5298db2f5d281fd14e57bd8d285a2f",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "8d21ccb8106928ea5c8bc44d36d593cc202db8202a21d8f8b401f165932c59c5",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "c67f03ea3ea416f4b07ef1c73d48ba2abb3bf11f4a23c5bdaecbf3a2cf064e65",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/preparation_trials.csv",
+      "字节": 3563,
+      "SHA256": "eb1568a4260e9ec74f14240fac14601f0a892f821df4f267351e5ff6600258cb",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/preparation_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/query_trials.csv",
+      "字节": 7023,
+      "SHA256": "3cdfa6c45c5e8611c84f3f9357909f962be6207150afbd5b76f9adb63a91f594",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/query_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/requirements_snapshot.txt",
+      "字节": 38,
+      "SHA256": "40f50a5b1befe25db06c8d6bfd9b706d09f604f4bd64d7ada113f6c5d743d6e9",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/requirements_snapshot.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/run_experiment_snapshot.py",
+      "字节": 29266,
+      "SHA256": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/run_experiment_snapshot.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/selected_ids/direct.csv",
+      "字节": 12424,
+      "SHA256": "3887329e89a1296b8d7431de818058889023563a6e76aab03b6de173c6f7de8a",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/selected_ids/h3_r6.csv",
+      "字节": 12424,
+      "SHA256": "3887329e89a1296b8d7431de818058889023563a6e76aab03b6de173c6f7de8a",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/selected_ids/h3_r7.csv",
+      "字节": 12424,
+      "SHA256": "3887329e89a1296b8d7431de818058889023563a6e76aab03b6de173c6f7de8a",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/selected_ids/h3_r8.csv",
+      "字节": 12424,
+      "SHA256": "3887329e89a1296b8d7431de818058889023563a6e76aab03b6de173c6f7de8a",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/sha256_manifest.json",
+      "字节": 2721,
+      "SHA256": "d0eb35b4cc5e6e06470ee76d51559bfd8b04050cbb74038b046ea16b9b7a5ab5",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/sha256_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/status.json",
+      "字节": 121,
+      "SHA256": "07e79ee11c9f9c27d0186789e366d156fa5e16681248a861a899ea66bce2b940",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/status.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/summary.csv",
+      "字节": 977,
+      "SHA256": "3359965a4cffe8cc3455d68e1e3548305f511ae47ef7f67b55d7d7a46f3c9c91",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/summary.json",
+      "字节": 6558,
+      "SHA256": "52d8d9efb5e8ae5e7f0b6b3ef491412bf40b35df5391b03c5b94c6fab6aea833",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/summary.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/20261110_205508_135429/结果速览.md",
+      "字节": 2739,
+      "SHA256": "28e1bb71116325b806916bc66df037d4365d95ef6ed1019900130d2aa486e4d8",
+      "原位置": "H3_海区查询实验/runs/20261110_205508_135429/结果速览.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/artifact_validation.json",
+      "字节": 317,
+      "SHA256": "03224cdb6729392b3e37565a3c336a916526e620aa15073e2a46c45d6054dc0f",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/artifact_validation.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/bbox_candidate_counts.csv",
+      "字节": 636,
+      "SHA256": "30e6551cfaa6dc1820aa11995d17eb3a532024799830dc47cedce8e8a7cfcc55",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/bbox_candidate_counts.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/boundary_A_r7_audit.json",
+      "字节": 235,
+      "SHA256": "cf399d8639cb8b98a52e06b4ac7b1c08ac2cc48c6ea73c2c94f912662d582511",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/boundary_A_r7_audit.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/correctness.json",
+      "字节": 15185,
+      "SHA256": "58d84fe6a3148181b6a75e56385f44b6044b61f5d789e2b9d701750f71bc05df",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/correctness.json",
+      "字节": 2780,
+      "SHA256": "93a7a8450bded1eef38fbb0524523953f4f0c4926f8efa21d09a884c4249c39d",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/h3_r6_bbox_removed_ids.csv",
+      "字节": 18580,
+      "SHA256": "a793d5632864c3a56a6db8d539adc0d5b1c40429894858fa649fc2bf6888e4e8",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/h3_r6_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/h3_r7_bbox_removed_ids.csv",
+      "字节": 17476,
+      "SHA256": "0f55aeff884e4e197771c54cc99c08ee0576df6c578f3743c57c10c1c1a9d7f8",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/h3_r7_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/h3_r8_bbox_removed_ids.csv",
+      "字节": 16386,
+      "SHA256": "2d2faf1d22e83aef4884b7dcb04e6ed60591fcd08ba88dab99f36c8a12af6671",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/h3_r8_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "ee29e8046cf7a310f42f75dd0b3fc35733643ef06752fbd2e5e20fb19054473a",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "e978ed01a8a65d96aeee9a016036d3aa55ce52dae770451f6e880d050c7128b0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "81fb12754cd2fe0c07950720e7accd486c4ccf6db1661fa2bc37b8be82b7c77a",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/direct.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r6.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r6_bbox.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r6_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r7.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r7_bbox.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r7_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r8.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r8_bbox.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_A/selected_ids/h3_r8_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/correctness.json",
+      "字节": 2780,
+      "SHA256": "9ebb0291ea3d8d9074b62281c94817cce8eb9ced78efdafbb681eb118b0b62a7",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/h3_r6_bbox_removed_ids.csv",
+      "字节": 18193,
+      "SHA256": "ddb98cccecd96b1510134caa512b36cfdd2a314ff8155f39b3fe887c559984ca",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/h3_r6_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/h3_r7_bbox_removed_ids.csv",
+      "字节": 17151,
+      "SHA256": "1ec14bdcb76b0a21b128b8ace9d3c62e170ab2d4dd904d21b653646a7a60987f",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/h3_r7_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/h3_r8_bbox_removed_ids.csv",
+      "字节": 16086,
+      "SHA256": "4891f98baef9212f85f9e288ca2475653270b98346acb4baaa09d10af4e4c7ca",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/h3_r8_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "ae96d35cf02b1479b19ee8bc8a65f098f2a85c1df1f3e607e579f8758e38291c",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "3c602f2f7033a82c0997a4acc4ebd2fdbee8da12a2e46ef2da1856fb0cc09d08",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "5f2e309d78effc26d5f84bf95545313c6d0903ff41ff2dff28e7942a0202b9fd",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/direct.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r6.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r6_bbox.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r6_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r7.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r7_bbox.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r7_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r8.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r8_bbox.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/boundary_B/selected_ids/h3_r8_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/correctness.json",
+      "字节": 2781,
+      "SHA256": "84ce2247522d3e3f6e9341176a28c1aab7d282c99aa16435f47ae5ad90d4ae2b",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/h3_r6_bbox_removed_ids.csv",
+      "字节": 7883,
+      "SHA256": "e5b4848ad956c0295941b4c5919bcbf2a212d0e35c8a74ecc6bf69f4672f4976",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/h3_r6_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/h3_r7_bbox_removed_ids.csv",
+      "字节": 2664,
+      "SHA256": "52f6b687a692c0ab9efa614a05ecad7f6feb93d4a48650107fec584f5ebcb119",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/h3_r7_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/h3_r8_bbox_removed_ids.csv",
+      "字节": 1096,
+      "SHA256": "87c7577577cf7f21fc4d1475bcb7461d850d48c900a7aa974b4784e807d9cc5a",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/h3_r8_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "3edbe9ac493884dff25edfe60f6ec65f2bd775a1e42f8d482442a6ef35fa1e5c",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "82c226cb57bad772f0f83bbf0fa222a8b2aa2306e5d4aaf7b7c735c74b279d03",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "648cd31d2d23e9ea0e1521236650c296d944437d0437d475ac768b3e81aea649",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/direct.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r6.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r6_bbox.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r6_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r7.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r7_bbox.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r7_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r8.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r8_bbox.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_A/selected_ids/h3_r8_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/correctness.json",
+      "字节": 2781,
+      "SHA256": "a24a1215db0b5ac6d8c55a79e8014cd1af661e3e8f6d10ad707830f60660d682",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/h3_r6_bbox_removed_ids.csv",
+      "字节": 7819,
+      "SHA256": "d8135d44a9f16c982b198809ff361be5cdbd089f3d0b4c4b50b46b0ff344864b",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/h3_r6_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/h3_r7_bbox_removed_ids.csv",
+      "字节": 2609,
+      "SHA256": "17a0ddd0da08e17d9de153a50c087c4eb7af4fe5bbfadc3db4d91a7602ac2d65",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/h3_r7_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/h3_r8_bbox_removed_ids.csv",
+      "字节": 933,
+      "SHA256": "c9382b47318125bf4bd8c4788ee80ea786f2120323fa2c8a7f037346ae21da65",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/h3_r8_bbox_removed_ids.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "fdf1e8d210729e7b0395288bd6fe6239e0b09c99e7e1a3ae40a92a1173a18f6a",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "0cbea6ef32ec15e2ff8ffe1630893ecc9cd90b8393d68275a46fbfea075475fe",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "6ddf6eab0cba7d5000f4dd1039a4553ed7bcc671e95a091428f8b8982b181447",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/direct.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r6.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r6_bbox.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r6_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r7.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r7_bbox.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r7_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r8.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r8_bbox.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/datasets/uniform_B/selected_ids/h3_r8_bbox.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/environment.json",
+      "字节": 721,
+      "SHA256": "d79a1f2160d98f887ac1c53f8793cd2596ce488d149d4ef43ffca653d502b048",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/environment.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_A/simulated_points.csv",
+      "字节": 656119,
+      "SHA256": "e654acbd69245109507f5892c0599e461064a40f4e9e0055af463967fc774909",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_A/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_A/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_A/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_B/simulated_points.csv",
+      "字节": 656187,
+      "SHA256": "a5f512f4264904418c15d8540d39bf3fb18b1ffbc4c6e0bbb2b4e5a586294f47",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_B/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_B/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/boundary_B/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_A/simulated_points.csv",
+      "字节": 628120,
+      "SHA256": "4560435628aa17e4fd38b49228b8e7d56157337bdc62dde87ae3116289cb2bc8",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_A/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_A/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_A/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_B/simulated_points.csv",
+      "字节": 628155,
+      "SHA256": "52a2930c5d7a91f24eb5481f1dc9398fa9970566c1e236dfdd08f0a08ebda9d0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_B/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_B/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_data/uniform_B/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/input_manifest.json",
+      "字节": 1917,
+      "SHA256": "558a70c5ee1a1183e6b74b546dff78da7db3db82886b01343b146a612e76eda7",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/input_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/pair_comparisons.csv",
+      "字节": 2876,
+      "SHA256": "1523db24eed17f74bc8b076bb1d404925a97fe10597572ce820b5ef6173c2e2c",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/pair_comparisons.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/previous_files_sha256.json",
+      "字节": 17837,
+      "SHA256": "6cc9c4ee24b083df1fe07a005e9edbcb1fe66f5bab3045bd0dc7d98673ec3cdb",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/previous_files_sha256.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/profile_summary.csv",
+      "字节": 3768,
+      "SHA256": "3d30e79cc6c8618ac68ab8858f22173ab90ace13e3bd0b9dcc043a57d453799f",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/profile_summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/profile_trials.csv",
+      "字节": 82297,
+      "SHA256": "a016be707448260ca6f9a2d119d203daabdfe6491b6005efb49aba6aa8d048db",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/profile_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/protocol.json",
+      "字节": 1988,
+      "SHA256": "a109b9574f7fedf520a3b107633f81eef8230e0a957f156eeb9ed9fa727ee245",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/protocol_record.json",
+      "字节": 142,
+      "SHA256": "aaa4df9e32c2267290f5b20c3b2464aa9848fcbfbd87974e6abb631d06e58ee0",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/protocol_record.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/rankings.csv",
+      "字节": 889,
+      "SHA256": "0efb099583c92600b14a4f9535de7201aefaa1de9e879ece1d9e2fe8c543a2d4",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/rankings.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/sha256_manifest.json",
+      "字节": 12276,
+      "SHA256": "8b5655d6f7fada89dfce69d462a7e743be8d0494ee2a10848bd8d8716af0046f",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/sha256_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/bbox_ablation.py",
+      "字节": 24332,
+      "SHA256": "974aa69f6949b70834cb7d700fba864dde12a9ddaea1f5e0cb92776b8dea23e5",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/bbox_ablation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/requirements.txt",
+      "字节": 38,
+      "SHA256": "40f50a5b1befe25db06c8d6bfd9b706d09f604f4bd64d7ada113f6c5d743d6e9",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/requirements.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/run_experiment.py",
+      "字节": 29266,
+      "SHA256": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/run_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/test_bbox_ablation.py",
+      "字节": 2624,
+      "SHA256": "8dd755180a0e945864c487fda79ec9c700dc8ef349727f7618101ba30c88f2ce",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/source_snapshots/test_bbox_ablation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/status.json",
+      "字节": 173,
+      "SHA256": "0979d49d9ceadca9796f24a04549aab4d3b25e3eca1dfd1c1f12bb9b6f3bbf42",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/status.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/summary.json",
+      "字节": 57711,
+      "SHA256": "d93173e4ee17025dbec1577d47ed7700251ffba5721c7d483a9552cfde350993",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/summary.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/whole_batch_summary.csv",
+      "字节": 3094,
+      "SHA256": "be8409a8799ebfdab28214fced958d9e17a6865738efc1e182a2e7d8442d74f1",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/whole_batch_summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/whole_batch_trials.csv",
+      "字节": 31814,
+      "SHA256": "1d52d4cd9f928fbccaf17ae46f1d511d2fb9214e2340a641d341391c00394809",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/whole_batch_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/本轮解读.md",
+      "字节": 2450,
+      "SHA256": "bc4d49c6c9dffc06c00816378e9c5bf97718c0d5a4c64913fdfc4c97d700be90",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/本轮解读.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/bbox_20261111_001350_991724/矩形筛选对照结果.md",
+      "字节": 6248,
+      "SHA256": "76947deb6725e32e3a2dfdd060f4f77f75a7bec037ddddfad500de36f18feeb4",
+      "原位置": "H3_海区查询实验/runs/bbox_20261111_001350_991724/矩形筛选对照结果.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/all_correctness.json",
+      "字节": 11897,
+      "SHA256": "29b58892a2b024299796cc82f885a5b654d9b824b7a5d1b7beda39a341e7719d",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/all_correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/artifact_validation.json",
+      "字节": 329,
+      "SHA256": "7ca5136afc7e63b898ca8e7baeceed3198db735fd3f97be664b74ece0c081049",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/artifact_validation.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/correctness.json",
+      "字节": 2780,
+      "SHA256": "93a7a8450bded1eef38fbb0524523953f4f0c4926f8efa21d09a884c4249c39d",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/data/generation_rules.json",
+      "字节": 4465,
+      "SHA256": "de4404696b4d334e77b70468a1ff996986e379dd741a8f1f0bfa8f19d8f815eb",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/data/simulated_points.csv",
+      "字节": 656119,
+      "SHA256": "e654acbd69245109507f5892c0599e461064a40f4e9e0055af463967fc774909",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "ee29e8046cf7a310f42f75dd0b3fc35733643ef06752fbd2e5e20fb19054473a",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "e978ed01a8a65d96aeee9a016036d3aa55ce52dae770451f6e880d050c7128b0",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "81fb12754cd2fe0c07950720e7accd486c4ccf6db1661fa2bc37b8be82b7c77a",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/direct.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/h3_r6.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/h3_r7.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/h3_r8.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_A/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/correctness.json",
+      "字节": 2780,
+      "SHA256": "9ebb0291ea3d8d9074b62281c94817cce8eb9ced78efdafbb681eb118b0b62a7",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/data/generation_rules.json",
+      "字节": 4465,
+      "SHA256": "dfc1df3d80cfad8f957aa252db27f48bbe6b5927f07f4b7a70667614b70bc3da",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/data/simulated_points.csv",
+      "字节": 656187,
+      "SHA256": "a5f512f4264904418c15d8540d39bf3fb18b1ffbc4c6e0bbb2b4e5a586294f47",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "ae96d35cf02b1479b19ee8bc8a65f098f2a85c1df1f3e607e579f8758e38291c",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "3c602f2f7033a82c0997a4acc4ebd2fdbee8da12a2e46ef2da1856fb0cc09d08",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "5f2e309d78effc26d5f84bf95545313c6d0903ff41ff2dff28e7942a0202b9fd",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/direct.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/h3_r6.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/h3_r7.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/h3_r8.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/boundary_B/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/correctness.json",
+      "字节": 2781,
+      "SHA256": "84ce2247522d3e3f6e9341176a28c1aab7d282c99aa16435f47ae5ad90d4ae2b",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/data/generation_rules.json",
+      "字节": 4333,
+      "SHA256": "9cb727038fca626b5e46833fb17f19a9b6c61acb2c4bf9f3a515059289a54d0e",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/data/simulated_points.csv",
+      "字节": 628120,
+      "SHA256": "4560435628aa17e4fd38b49228b8e7d56157337bdc62dde87ae3116289cb2bc8",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "3edbe9ac493884dff25edfe60f6ec65f2bd775a1e42f8d482442a6ef35fa1e5c",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "82c226cb57bad772f0f83bbf0fa222a8b2aa2306e5d4aaf7b7c735c74b279d03",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "648cd31d2d23e9ea0e1521236650c296d944437d0437d475ac768b3e81aea649",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/direct.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/h3_r6.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/h3_r7.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/h3_r8.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_A/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/boundary_cases.csv",
+      "字节": 4326,
+      "SHA256": "47fdf86ef06054e63cebc1ad2faa67869616d10e0f54923f9274bc671830dabb",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/boundary_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/correctness.json",
+      "字节": 2781,
+      "SHA256": "a24a1215db0b5ac6d8c55a79e8014cd1af661e3e8f6d10ad707830f60660d682",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/coverage/h3_r6_cells.csv",
+      "字节": 896,
+      "SHA256": "4d0d546f0b3a1949f4837dbbdd0ad38dd223f9532bf3c9cbc154465d6a9feeea",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/coverage/h3_r6_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/coverage/h3_r7_cells.csv",
+      "字节": 4562,
+      "SHA256": "75a7690dc238bcca17181af0c275aba96f0e14450b124c425d62a8c0061c8d14",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/coverage/h3_r7_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/coverage/h3_r8_cells.csv",
+      "字节": 27578,
+      "SHA256": "48a5556e3911a70b303f5f45ef03d231d798177a6b029afe5630b58ced3a3024",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/coverage/h3_r8_cells.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/data/generation_rules.json",
+      "字节": 4333,
+      "SHA256": "9b2b7f5cb4d45174de4ade0a1865c0cd171b635073b8c4d33109f9a0164d56b8",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/data/simulated_points.csv",
+      "字节": 628155,
+      "SHA256": "52a2930c5d7a91f24eb5481f1dc9398fa9970566c1e236dfdd08f0a08ebda9d0",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/diagnostics/incorrect_points.csv",
+      "字节": 87,
+      "SHA256": "8ec312916d34d1f25c788aecd4f5b60f12969d70b2f8c21bbef89eae42456e07",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/diagnostics/incorrect_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/point_indexes/h3_r6_encoding.csv",
+      "字节": 219652,
+      "SHA256": "fdf1e8d210729e7b0395288bd6fe6239e0b09c99e7e1a3ae40a92a1173a18f6a",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/point_indexes/h3_r6_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/point_indexes/h3_r7_encoding.csv",
+      "字节": 219652,
+      "SHA256": "0cbea6ef32ec15e2ff8ffe1630893ecc9cd90b8393d68275a46fbfea075475fe",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/point_indexes/h3_r7_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/point_indexes/h3_r8_encoding.csv",
+      "字节": 219652,
+      "SHA256": "6ddf6eab0cba7d5000f4dd1039a4553ed7bcc671e95a091428f8b8982b181447",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/point_indexes/h3_r8_encoding.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/direct.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/h3_r6.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/h3_r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/h3_r7.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/h3_r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/h3_r8.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/datasets/uniform_B/selected_ids/h3_r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/environment.json",
+      "字节": 755,
+      "SHA256": "4f7185f7e40ba1eb471eabc97d34f84534eeaa69561d74142ad3026c2f98d8e3",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/environment.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/exploration_experiment.py",
+      "字节": 25661,
+      "SHA256": "4022d648e4be4884706ed841f36863ea7099a40b5e41ec418482de54e3c9d373",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/exploration_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/feature_summary.csv",
+      "字节": 1132,
+      "SHA256": "ea0e1dda477cc5d53b4d4be2b6f5baf460945daf143988675818bbde70bd387a",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/feature_summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/feature_trials.csv",
+      "字节": 166163,
+      "SHA256": "417670b790b2bfa5f8ff461dcf71ea9517f46dd7031e45aa6c7d2c544edcbf0c",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/feature_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/posthoc_comparisons.csv",
+      "字节": 2386,
+      "SHA256": "331fc7a684dd920d35db98e1b17b05a38483ae86bff2ed641be8811292cabd94",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/posthoc_comparisons.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/previous_files_sha256.json",
+      "字节": 4213,
+      "SHA256": "3d17a8be00c065fbd653e8a93337c739046f5b5e573ccd7cb8f5995f0607342b",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/previous_files_sha256.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/protocol.json",
+      "字节": 3152,
+      "SHA256": "f4b61974d8d39ff14b6907ae50d94e4c3ec6f4ad4d48e9bddd9e9c4a44f4af85",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/protocol_record.json",
+      "字节": 235,
+      "SHA256": "448f359b316ca670cb79959471c48144a529e97e8eaf4e6e5b951f011da0ef27",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/protocol_record.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/requirements.txt",
+      "字节": 38,
+      "SHA256": "40f50a5b1befe25db06c8d6bfd9b706d09f604f4bd64d7ada113f6c5d743d6e9",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/requirements.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/run_experiment.py",
+      "字节": 29266,
+      "SHA256": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/run_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/sha256_manifest.json",
+      "字节": 9432,
+      "SHA256": "22eafb83365ebc10afba31a3c13658d582db6831204a35df7faced6e6299c639",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/sha256_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/status.json",
+      "字节": 177,
+      "SHA256": "0fc3a82d1814f58a7379f5c17ffb1fe1be52b73a0ef337aaa7dbe356882f87ff",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/status.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/summary.json",
+      "字节": 50356,
+      "SHA256": "0e13a7548cc3bfc126eb0bf70140723a7c51c6faa9caf78511986be5659a7b09",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/summary.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/test_exploration.py",
+      "字节": 3346,
+      "SHA256": "767376c5ab45415cc7dd27aa9c43446daea43da760b70fb5c2d5c5fa765fbcfc",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/test_exploration.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/whole_batch_summary.csv",
+      "字节": 6134,
+      "SHA256": "3da27e41c7b6f8e5fae3398e1d1ce0474b12112ab21a0243eaf90d2264eb6584",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/whole_batch_summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/whole_batch_trials.csv",
+      "字节": 50408,
+      "SHA256": "b8dc70676d859ed99236deaa650d2deadce115de8b9f250a965d5c5587d57a2e",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/whole_batch_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/探索结果.md",
+      "字节": 9336,
+      "SHA256": "10aa9710f116413a3e6b724d7f475dc9cea79391664aab2043c07ef600ac2367",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/探索结果.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/explore_20261110_221236_751069/本轮结论.md",
+      "字节": 2450,
+      "SHA256": "333813f1c6df102fbd4dd9bd9d36bd333afedb77b63c065b7bb3b14e8c8b4b4f",
+      "原位置": "H3_海区查询实验/runs/explore_20261110_221236_751069/本轮结论.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/artifact_validation.json",
+      "字节": 562,
+      "SHA256": "937679e18e80089ee3f0a439b05cee17d227c2f953b520115496464bbeaa3863",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/artifact_validation.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/coefficients.csv",
+      "字节": 300,
+      "SHA256": "91d735c633093b4c6065d1e9e860d7745e92b091226a360d4b9ee2d9b1b26d1f",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/coefficients.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/correctness_fixed.json",
+      "字节": 9795,
+      "SHA256": "0f33e7f45bcbdc337a665b40ca260f99fc9b56394f7a06ba8e3af0436a1da203",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/correctness_fixed.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/correctness_strategies.csv",
+      "字节": 2411,
+      "SHA256": "6254921b0089b454a5d4e01f0485b2896e74e77697eb74c6a154674220cc6d39",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/correctness_strategies.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/decision_intervals.csv",
+      "字节": 2175,
+      "SHA256": "cb6bd25c1a9cbc2a4d2b6c1bc17a27e49bef2953e5a40e050a3783e20dff4164",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/decision_intervals.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/decision_intervals.json",
+      "字节": 42649,
+      "SHA256": "2fe2ffad8a47df369f1b17f4efa3b6e189eec98b4f7da0ac2e442a98f40ed4ff",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/decision_intervals.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/environment.json",
+      "字节": 723,
+      "SHA256": "041fbdbd18d7dbd920b921daa62d405856202e0b9632fb569af8241c92706c0e",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/environment.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/fit_residuals.csv",
+      "字节": 1210,
+      "SHA256": "bc13e60c1065f869d71c3e0c66da00508dc4f2bf91975d4309b831a54374ae0f",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/fit_residuals.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/fixed_method_summary.csv",
+      "字节": 2944,
+      "SHA256": "a2f852241e0d9680f778aaba500d85e4d19cb0a995ddc6150cec36fe64ed1a86",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/fixed_method_summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/fixed_method_trials.csv",
+      "字节": 22624,
+      "SHA256": "1b6404731912b045f57b5255788c712feb41bb947c0fa8753900756e5d004767",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/fixed_method_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_A/simulated_points.csv",
+      "字节": 656119,
+      "SHA256": "e654acbd69245109507f5892c0599e461064a40f4e9e0055af463967fc774909",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_A/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_A/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_A/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_B/simulated_points.csv",
+      "字节": 656187,
+      "SHA256": "a5f512f4264904418c15d8540d39bf3fb18b1ffbc4c6e0bbb2b4e5a586294f47",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_B/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_B/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/boundary_B/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_A/simulated_points.csv",
+      "字节": 628120,
+      "SHA256": "4560435628aa17e4fd38b49228b8e7d56157337bdc62dde87ae3116289cb2bc8",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_A/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_A/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_A/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_B/simulated_points.csv",
+      "字节": 628155,
+      "SHA256": "52a2930c5d7a91f24eb5481f1dc9398fa9970566c1e236dfdd08f0a08ebda9d0",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_B/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_B/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_data/uniform_B/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_manifest.json",
+      "字节": 1917,
+      "SHA256": "558a70c5ee1a1183e6b74b546dff78da7db3db82886b01343b146a612e76eda7",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/input_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/K100_prediction_check.csv",
+      "字节": 2869,
+      "SHA256": "648b8df67bba428580ed25015069c83d098f378581e17de79db51a5235e30d52",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/K100_prediction_check.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/K100_sample_prediction_check.csv",
+      "字节": 2968,
+      "SHA256": "f93dcda837dbe3f9ce176ceaae337cbeadd6ce619c08055e260cbaa059c14199",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/K100_sample_prediction_check.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/offline_costs.json",
+      "字节": 803,
+      "SHA256": "2b6a5203e35371b705650300cb94d5db44f92dcca1954ab4e039edbba6b14f30",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/offline_costs.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/offline_exact_features.json",
+      "字节": 312,
+      "SHA256": "3573270dbcf620c0dd8cdb98ec37c27ded234f3f37066741e04391bbca1a54fc",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/offline_exact_features.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/offline_training_cases.csv",
+      "字节": 1008,
+      "SHA256": "1bf0272d2a83e49952804ec8e70963bb174017c28216f265a1aeae9c53e2a884",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/offline_training_cases.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/online_model.json",
+      "字节": 823,
+      "SHA256": "f128d8595195128ae0d6f8f786fe77fb6951971b26c3e4de2841134aa7d1d096",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/online_model.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/previous_files_sha256.json",
+      "字节": 34654,
+      "SHA256": "d0d65d92ee0c33db1cacf03fbdb5af9fae65238ec23eeabab2aaf769d6b1642e",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/previous_files_sha256.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/protocol.json",
+      "字节": 3736,
+      "SHA256": "72cdf98e057bc96eda7262a857c5d1c1cf19dd27dea919afd255940626a36278",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/protocol_record.json",
+      "字节": 151,
+      "SHA256": "f356eaff6e15defabf30e9ecbaebd6fcfe7d1a9fe945766414b3bfcbb6849fe0",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/protocol_record.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/direct.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/r6.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/r7.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/r8.csv",
+      "字节": 26210,
+      "SHA256": "e680b6f814ee1fa68f625d4c6a2b9ee96063fcf6a3bed1297ba17f522d7255d1",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_A/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/direct.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/r6.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/r7.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/r8.csv",
+      "字节": 26166,
+      "SHA256": "60c9793cb466a536fcb190ca7ef666b918367601ab1b271e55ece50e5c9f78ea",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/boundary_B/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/direct.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/r6.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/r7.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/r8.csv",
+      "字节": 12718,
+      "SHA256": "25744eef010e0bdbe5eac12eded90913181f6724cc8be8837a243c9dcdbcbde0",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_A/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/direct.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/r6.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/r7.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/r8.csv",
+      "字节": 12537,
+      "SHA256": "85cc0c15457a6d16b1fd75e0ff7dfd859ac3b994ea9a9c3b1e2484ea2a6c5f7e",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selected_ids/uniform_B/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_diagnostic_trials.csv",
+      "字节": 62225,
+      "SHA256": "92eaf549e0295ca4f4e8083d283d866eea90f015ded70facb397a6083294ad78",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_diagnostic_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_normal_summary.csv",
+      "字节": 4398,
+      "SHA256": "149315b5792a047886cea2943b8163c1946476930034193761ea3dc1d42b51ad",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_normal_summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_normal_traces.jsonl",
+      "字节": 1201794,
+      "SHA256": "27988260c65f6537181909c5d104eafc183a6a5a881964fc2e0c94718f7afbcc",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_normal_traces.jsonl"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_normal_trials.csv",
+      "字节": 77486,
+      "SHA256": "72eb5e4b0b31d81629879032a4acbddee72e326c116f9d0b37f978b873c34e44",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/selection_normal_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/sha256_manifest.json",
+      "字节": 6347,
+      "SHA256": "332aaf214bf451c9e09d44e973e6100c6082bf21f3f54e6992952021f4f574da",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/sha256_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/bbox_ablation.py",
+      "字节": 24332,
+      "SHA256": "974aa69f6949b70834cb7d700fba864dde12a9ddaea1f5e0cb92776b8dea23e5",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/bbox_ablation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/calibrate_selector.py",
+      "字节": 29677,
+      "SHA256": "ea2c99289183cb549cf651e60bb84fe15ab5778e4a77de7db0cadd42a2efa7f7",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/calibrate_selector.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/requirements.txt",
+      "字节": 38,
+      "SHA256": "40f50a5b1befe25db06c8d6bfd9b706d09f604f4bd64d7ada113f6c5d743d6e9",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/requirements.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/run_experiment.py",
+      "字节": 29266,
+      "SHA256": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/run_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/selector_decision.py",
+      "字节": 8614,
+      "SHA256": "ebe6802e850a11bc5838d17067e3d5f59212a3e156cb68262c33976d26ce14ef",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/selector_decision.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/selector_engine.py",
+      "字节": 6704,
+      "SHA256": "5524800f59662f4d5fd2e38e94fdaf1a5778fbafe1bb6ec74417bc3d81ee25cb",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/selector_engine.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/test_selector_decision.py",
+      "字节": 5131,
+      "SHA256": "141b65dda76e79be960c59cd68318978b74c3bfef2b6c322e7d6cb31e003d5a2",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/test_selector_decision.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/test_selector_engine.py",
+      "字节": 4316,
+      "SHA256": "14b113f405911ee867665273e34339a27022e972f2ff5cb37e9e9e0dc43fe725",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/test_selector_engine.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/verify_selector_calibration.py",
+      "字节": 7568,
+      "SHA256": "46f731c1ef3b46c6aedd8fe73e2ca40241da647faf7a5af1387253fe5828a215",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/source_snapshots/verify_selector_calibration.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/status.json",
+      "字节": 320,
+      "SHA256": "5afe42eac426536fd586c7906d46154e5e58c38e263c00bfb9083f7f0373cc78",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/status.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/summary.json",
+      "字节": 57065,
+      "SHA256": "610803986008c533b379dd504e72ac9e76961d12cf134ff74ed5e3d35edbabfe",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/summary.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/本轮结论.md",
+      "字节": 4234,
+      "SHA256": "e4f5dd7a19737cf55cd4b5b04af5596959e6dfdc555a601a2e172a1b511c5b86",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/本轮结论.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/selector_cal_20261111_140827_086716/校准结果.md",
+      "字节": 10552,
+      "SHA256": "35fcce8e7d9ba70ae2832ebe3ffd3cd72eeed9417c0235b81a5e4b55d2dcbb9d",
+      "原位置": "H3_海区查询实验/runs/selector_cal_20261111_140827_086716/校准结果.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/artifact_validation.json",
+      "字节": 2128,
+      "SHA256": "406e34031724655f1e7fcf4fa6f061e65ef52d628173adfadf114dfc89192319",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/artifact_validation.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/comparisons.csv",
+      "字节": 14568,
+      "SHA256": "72a7ce6417b6d3ee8280ee448f3168b246107f5932a4fb8d403eb5d04c4ce728",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/comparisons.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/correctness.json",
+      "字节": 25727,
+      "SHA256": "4c5c2e93188def2c5f948d3dd3719a6f224c2e979074b283b708f58624d65736",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/correctness.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/data_hashes.json",
+      "字节": 527,
+      "SHA256": "002dc9d090f51e23af83af6c68972c44f401beb22442af722647040dbba9da7f",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/data_hashes.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/generation_rules.json",
+      "字节": 768,
+      "SHA256": "0b46b6ea78ce1104e777e02a3be0531d34306cf62c399705907553fb56305421",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_points.csv",
+      "字节": 642121,
+      "SHA256": "4f9e8a4d843dd68ae5b095f15f4b0e5aabce9d15f145d08134c3f88cdd426260",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/validation_case.json",
+      "字节": 157,
+      "SHA256": "c6af2c9f183fdc2c1e54deb58636e9e9a76ae98d0ac8e2ffd994a6d5d9e04793",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/validation_case.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/generation_rules.json",
+      "字节": 768,
+      "SHA256": "f3b0a6a9bf5ad89a78fd881d410ade754ce41f78f5b4c5121777f2e0244fc9e3",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_points.csv",
+      "字节": 642179,
+      "SHA256": "567059c94fd7821ff5484b08dc89660621498d3a4c7ecb20134cad5e39ad7cf1",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/validation_case.json",
+      "字节": 157,
+      "SHA256": "824bf47020d823641d848a151400d6bf9543d361c7277ed9aed624bea9c6e0bb",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/validation_case.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/generation_rules.json",
+      "字节": 766,
+      "SHA256": "5aa247ad633c0c4971240bcd4efc880955a4ab812ccce2560700999dc19ef09f",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_points.csv",
+      "字节": 656094,
+      "SHA256": "fd96fabd1f37d144e3f7aea9bdacc3f7495f8e17a26c34ea5b604df1ea87811e",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/validation_case.json",
+      "字节": 153,
+      "SHA256": "73018269743b66550f0c82b548131cf9ab67ed7db1ab19e684529e50d1592c71",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/validation_case.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/generation_rules.json",
+      "字节": 766,
+      "SHA256": "bdbdbaeebfd7de61f44050212244fbe17117b6fc1f772ed2ed0128e4cebd9274",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_points.csv",
+      "字节": 656006,
+      "SHA256": "ac492714fbd3d13d2c32319fe2d6ef3e41126a0c22e3a034aa5e2ffd0c4a855e",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/validation_case.json",
+      "字节": 153,
+      "SHA256": "c6f5b20f7e9627de7fb4355264907ec2dd169b4499f1ca8952f71beb293b8b05",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/validation_case.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/generation_rules.json",
+      "字节": 631,
+      "SHA256": "ba96103a748cf362194d56f52653558159ef5878c5a755f56bfa019420071c3a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_points.csv",
+      "字节": 628134,
+      "SHA256": "07c2d4e4702528455be126251ec3eca68d052377415fddef523cf6e2e8348d2a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/validation_case.json",
+      "字节": 150,
+      "SHA256": "c5232a0c8641184e69f1a9e0d6afa1677466ff526682d4ed28bde41a2b897f40",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/validation_case.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/generation_rules.json",
+      "字节": 631,
+      "SHA256": "617adea7778550bcf3ec9d3dfc1f8120b1b5d7d3de3b5ed67e6b143a149521fc",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/generation_rules.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_points.csv",
+      "字节": 628089,
+      "SHA256": "77523855cc42dd5305f882db92f883323e1c67ba71ced5e74c6ffa2c22df439b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/validation_case.json",
+      "字节": 150,
+      "SHA256": "0301f1379149d9f8a4e0b39d00974d9b3e5b05a596a51495ea5fe3d29e92881b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/validation_case.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/delivery_sha256_manifest.json",
+      "字节": 9267,
+      "SHA256": "501989d2d2528ebeda1c90e87864eba0f044611b9412b7959d281089ae85b848",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/delivery_sha256_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/environment.json",
+      "字节": 723,
+      "SHA256": "e15af3d5ca634eb2dd94238352d7527d64d7bc0ba6d21e09e8c6cc8abe6e9944",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/environment.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/events.jsonl",
+      "字节": 5463,
+      "SHA256": "23d701d7280c63e14465b49c2cced3da92f40ca3f948818b4392d76f754cf8d9",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/events.jsonl"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/fixed_prediction_errors.csv",
+      "字节": 11387,
+      "SHA256": "d0c414ecdf2a0f552bb159c0f1b4de4eb184d8d6e2708a11132bed151383f3d4",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/fixed_prediction_errors.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/formal_choice_traces.jsonl",
+      "字节": 457072,
+      "SHA256": "45eb7b7168bc035979ec3dcf6b1cd25e918d621a5577eb44dacae1fe78ef64fa",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/formal_choice_traces.jsonl"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/formal_trials.csv",
+      "字节": 55112,
+      "SHA256": "4fb219957f2fd9105b89f93dbd614b394e5afc7d16cd22fe8850eeea243f65f7",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/formal_trials.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/freeze_manifest.json",
+      "字节": 1061,
+      "SHA256": "941fd4a37c7c07f68021a5b8c63e56961627b95d3c846a40c9161dfab6384e6a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/freeze_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/frozen_code_provenance.json",
+      "字节": 1045,
+      "SHA256": "887b819f8d14f4e3fc096b41b43b7845f6ef5cebf4128b5eb2856df07868f198",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/frozen_code_provenance.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/online_model.json",
+      "字节": 823,
+      "SHA256": "f128d8595195128ae0d6f8f786fe77fb6951971b26c3e4de2841134aa7d1d096",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/online_model.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/paired_differences.csv",
+      "字节": 42285,
+      "SHA256": "730fc0cf9ab66d44fd674d5514ce935ea5a5d9908243037a06f92e3bb8f17bec",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/paired_differences.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_diagnostics.csv",
+      "字节": 10968,
+      "SHA256": "d61a96da57d623a4752cd74b08f854c057f7e649cc85e12477ed66dc6bb7ff3b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_diagnostics.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_oracle.csv",
+      "字节": 1249,
+      "SHA256": "4d913f2e53a5f8f8609069f2b3b29e15de0015f0feade64df930b41a283c7286",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_oracle.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/postprocessing/summarize_validation_findings.py",
+      "字节": 9922,
+      "SHA256": "8f25106d2a04d2d058b526c311e5db08e2e916eeaad2c045a413be2ea2944834",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/postprocessing/summarize_validation_findings.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/postprocessing/verify_independent_validation.py",
+      "字节": 29928,
+      "SHA256": "4f3e4b8d2c0902478fb4b5a7eea70a1a0dfeb141e58b452bb47116bff43a7288",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/postprocessing/verify_independent_validation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendation_summary.csv",
+      "字节": 3296,
+      "SHA256": "9e322475df3371063725658f3ccccaff20eea3aa4646c7e3d87ac266ac30f119",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendation_summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendations.jsonl",
+      "字节": 85954,
+      "SHA256": "f876e7d56de6e6080e8ceebbfc2efb6e1c11c3c35a0332f3ec4dd5f95372f6d5",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendations.jsonl"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendations_lock.json",
+      "字节": 165,
+      "SHA256": "79c3fb9062a60e3a9ac170741b10ec73bad1a2a246d11114f81ccf1de750d42a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendations_lock.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/previous_files_sha256.json",
+      "字节": 44266,
+      "SHA256": "1763d8880f42f8aca68658a15406f51cbdbf1b4cac9f9dba13a9802b5089f15b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/previous_files_sha256.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/protocol.json",
+      "字节": 3606,
+      "SHA256": "759f86c97367de5bcab40b17217c4b30d516bd166713af860d326a82e7f4eaf7",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/results.json",
+      "字节": 181591,
+      "SHA256": "3187dce0fdc60c1af4a56ae2374fd56bebf2211f4bab45216a089596e7dd4165",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/results.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/sample_feature_errors.csv",
+      "字节": 753,
+      "SHA256": "11a96c399d19e543e3cf20f22572b47b5218c3dced84f023c1bab8ed650e7922",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/sample_feature_errors.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/direct.csv",
+      "字节": 19117,
+      "SHA256": "07b243ef4e1c1f04650ab5b3ea098eabe99b3ed2ed8868533b916fb8b7ce627b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/r6.csv",
+      "字节": 19117,
+      "SHA256": "07b243ef4e1c1f04650ab5b3ea098eabe99b3ed2ed8868533b916fb8b7ce627b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/r7.csv",
+      "字节": 19117,
+      "SHA256": "07b243ef4e1c1f04650ab5b3ea098eabe99b3ed2ed8868533b916fb8b7ce627b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/r8.csv",
+      "字节": 19117,
+      "SHA256": "07b243ef4e1c1f04650ab5b3ea098eabe99b3ed2ed8868533b916fb8b7ce627b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3201/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/direct.csv",
+      "字节": 19421,
+      "SHA256": "7edd3d4d6587f1ef9c08eac189647e6e1c90cba58474e833e357b87f12b212ec",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/r6.csv",
+      "字节": 19421,
+      "SHA256": "7edd3d4d6587f1ef9c08eac189647e6e1c90cba58474e833e357b87f12b212ec",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/r7.csv",
+      "字节": 19421,
+      "SHA256": "7edd3d4d6587f1ef9c08eac189647e6e1c90cba58474e833e357b87f12b212ec",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/r8.csv",
+      "字节": 19421,
+      "SHA256": "7edd3d4d6587f1ef9c08eac189647e6e1c90cba58474e833e357b87f12b212ec",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/moderate_3202/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/direct.csv",
+      "字节": 26207,
+      "SHA256": "64dce33b7bc3e7133fdbeacb8357d3bc0d6111bad0a9de7e7c26245ae50cf44a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/r6.csv",
+      "字节": 26207,
+      "SHA256": "64dce33b7bc3e7133fdbeacb8357d3bc0d6111bad0a9de7e7c26245ae50cf44a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/r7.csv",
+      "字节": 26207,
+      "SHA256": "64dce33b7bc3e7133fdbeacb8357d3bc0d6111bad0a9de7e7c26245ae50cf44a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/r8.csv",
+      "字节": 26207,
+      "SHA256": "64dce33b7bc3e7133fdbeacb8357d3bc0d6111bad0a9de7e7c26245ae50cf44a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3301/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/direct.csv",
+      "字节": 26188,
+      "SHA256": "64220411ad555a73aa0366eb9c13f4a54daaf3d1a138c7691a8602d958bf2daf",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/r6.csv",
+      "字节": 26188,
+      "SHA256": "64220411ad555a73aa0366eb9c13f4a54daaf3d1a138c7691a8602d958bf2daf",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/r7.csv",
+      "字节": 26188,
+      "SHA256": "64220411ad555a73aa0366eb9c13f4a54daaf3d1a138c7691a8602d958bf2daf",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/r8.csv",
+      "字节": 26188,
+      "SHA256": "64220411ad555a73aa0366eb9c13f4a54daaf3d1a138c7691a8602d958bf2daf",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/strong_3302/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/direct.csv",
+      "字节": 12493,
+      "SHA256": "44d1a0f2374d66126cd414961f435dfdbd7f248b0d4c16d8a5de8486c3a27208",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/r6.csv",
+      "字节": 12493,
+      "SHA256": "44d1a0f2374d66126cd414961f435dfdbd7f248b0d4c16d8a5de8486c3a27208",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/r7.csv",
+      "字节": 12493,
+      "SHA256": "44d1a0f2374d66126cd414961f435dfdbd7f248b0d4c16d8a5de8486c3a27208",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/r8.csv",
+      "字节": 12493,
+      "SHA256": "44d1a0f2374d66126cd414961f435dfdbd7f248b0d4c16d8a5de8486c3a27208",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3101/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/direct.csv",
+      "字节": 12953,
+      "SHA256": "3afe0866eed4f18b167af08acef13f700c2f3faca48e6736e6cbd0dc2bb84fd9",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/direct.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/r6.csv",
+      "字节": 12953,
+      "SHA256": "3afe0866eed4f18b167af08acef13f700c2f3faca48e6736e6cbd0dc2bb84fd9",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/r6.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/r7.csv",
+      "字节": 12953,
+      "SHA256": "3afe0866eed4f18b167af08acef13f700c2f3faca48e6736e6cbd0dc2bb84fd9",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/r7.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/r8.csv",
+      "字节": 12953,
+      "SHA256": "3afe0866eed4f18b167af08acef13f700c2f3faca48e6736e6cbd0dc2bb84fd9",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/selected_ids/uniform_3102/r8.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/sha256_manifest.json",
+      "字节": 8724,
+      "SHA256": "4db64014cf6418084c3279c45aa55971926468dafe6d70879df2d71711ef038f",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/sha256_manifest.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/bbox_ablation.py",
+      "字节": 24332,
+      "SHA256": "974aa69f6949b70834cb7d700fba864dde12a9ddaea1f5e0cb92776b8dea23e5",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/bbox_ablation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/exploration_experiment.py",
+      "字节": 25661,
+      "SHA256": "4022d648e4be4884706ed841f36863ea7099a40b5e41ec418482de54e3c9d373",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/exploration_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/requirements.txt",
+      "字节": 38,
+      "SHA256": "40f50a5b1befe25db06c8d6bfd9b706d09f604f4bd64d7ada113f6c5d743d6e9",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/requirements.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/run_experiment.py",
+      "字节": 29266,
+      "SHA256": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/run_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/run_independent_validation.py",
+      "字节": 28110,
+      "SHA256": "914481258e9ac90aed13a712d2e3a4763a402b6acbfc0bb30e7a2191c704554c",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/run_independent_validation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/selector_decision.py",
+      "字节": 8614,
+      "SHA256": "ebe6802e850a11bc5838d17067e3d5f59212a3e156cb68262c33976d26ce14ef",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/selector_decision.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/selector_engine.py",
+      "字节": 6704,
+      "SHA256": "5524800f59662f4d5fd2e38e94fdaf1a5778fbafe1bb6ec74417bc3d81ee25cb",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/selector_engine.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/test_independent_validation.py",
+      "字节": 2755,
+      "SHA256": "1bddd3bad9d8635f04d75a9d99660ab99e14612b5522025b84fec06e9072a445",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/snapshots/test_independent_validation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/status.json",
+      "字节": 299,
+      "SHA256": "5c4d729ea4f0bdad6226a43db8b9ce0fc131b690475ce9c118786eabcd77874d",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/status.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/strategy_regret.csv",
+      "字节": 17725,
+      "SHA256": "7fe485d2a693b61e418ff0e2a6dd0d47b0edb5cd8c92be10d3e8a414e11a1c6b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/strategy_regret.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/summary.csv",
+      "字节": 14225,
+      "SHA256": "c768a5806e29d5578c80aa6e037dedcca010eaa584b30825c40d5c3ae67725b3",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/summary.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/独立验证结果.md",
+      "字节": 13782,
+      "SHA256": "f0398a3944a7f7544dc70f9a4ffc76a937b9f26afb01a7faef716155f0f00665",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/独立验证结果.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/runs/validation_20261111_151150_257869/结果要点与净节省表.md",
+      "字节": 9811,
+      "SHA256": "87678facdf443c904c29918ee1e28bf366b6967a4ad32a7d3ae92fc6947f585c",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/结果要点与净节省表.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/selector_calibration_protocol.json",
+      "字节": 3736,
+      "SHA256": "72cdf98e057bc96eda7262a857c5d1c1cf19dd27dea919afd255940626a36278",
+      "原位置": "H3_海区查询实验/selector_calibration_protocol.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/selector_decision.py",
+      "字节": 8614,
+      "SHA256": "ebe6802e850a11bc5838d17067e3d5f59212a3e156cb68262c33976d26ce14ef",
+      "原位置": "H3_海区查询实验/selector_decision.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/selector_engine.py",
+      "字节": 6704,
+      "SHA256": "5524800f59662f4d5fd2e38e94fdaf1a5778fbafe1bb6ec74417bc3d81ee25cb",
+      "原位置": "H3_海区查询实验/selector_engine.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/summarize_validation_findings.py",
+      "字节": 9922,
+      "SHA256": "8f25106d2a04d2d058b526c311e5db08e2e916eeaad2c045a413be2ea2944834",
+      "原位置": "H3_海区查询实验/summarize_validation_findings.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/test_bbox_ablation.py",
+      "字节": 2624,
+      "SHA256": "8dd755180a0e945864c487fda79ec9c700dc8ef349727f7618101ba30c88f2ce",
+      "原位置": "H3_海区查询实验/test_bbox_ablation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/test_experiment.py",
+      "字节": 3373,
+      "SHA256": "69f13492c50a8e47b119b6f149af1e22ea332dee8d920b3b535ed8b92c37abe0",
+      "原位置": "H3_海区查询实验/test_experiment.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/test_exploration.py",
+      "字节": 3346,
+      "SHA256": "767376c5ab45415cc7dd27aa9c43446daea43da760b70fb5c2d5c5fa765fbcfc",
+      "原位置": "H3_海区查询实验/test_exploration.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/test_independent_validation.py",
+      "字节": 2755,
+      "SHA256": "1bddd3bad9d8635f04d75a9d99660ab99e14612b5522025b84fec06e9072a445",
+      "原位置": "H3_海区查询实验/test_independent_validation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/test_selector_decision.py",
+      "字节": 5131,
+      "SHA256": "141b65dda76e79be960c59cd68318978b74c3bfef2b6c322e7d6cb31e003d5a2",
+      "原位置": "H3_海区查询实验/test_selector_decision.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/test_selector_engine.py",
+      "字节": 4316,
+      "SHA256": "14b113f405911ee867665273e34339a27022e972f2ff5cb37e9e9e0dc43fe725",
+      "原位置": "H3_海区查询实验/test_selector_engine.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/verify_bbox_ablation.py",
+      "字节": 5721,
+      "SHA256": "709dca58e86af2e54b504ebfe143362f5d88864a3aae59b15a6e1795e3894a3c",
+      "原位置": "H3_海区查询实验/verify_bbox_ablation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/verify_exploration_results.py",
+      "字节": 5598,
+      "SHA256": "126aa4c3e71e1d2708e403d4e67c17aafcdf14865303779d9ca3a3135c96c242",
+      "原位置": "H3_海区查询实验/verify_exploration_results.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/verify_independent_validation.py",
+      "字节": 29928,
+      "SHA256": "4f3e4b8d2c0902478fb4b5a7eea70a1a0dfeb141e58b452bb47116bff43a7288",
+      "原位置": "H3_海区查询实验/verify_independent_validation.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/verify_selector_calibration.py",
+      "字节": 7568,
+      "SHA256": "46f731c1ef3b46c6aedd8fe73e2ca40241da647faf7a5af1387253fe5828a215",
+      "原位置": "H3_海区查询实验/verify_selector_calibration.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告写作准备.md",
+      "字节": 40883,
+      "SHA256": "5e72cddf6c711f47af8a426eed7e39f334e734406816d5586d66404bb50cf06f",
+      "原位置": "H3_海区查询实验/报告写作准备.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/requirements_绘图.txt",
+      "字节": 336,
+      "SHA256": "55a90c8c1570dd9a4b5cb9cfdad5cbe6c7827f187e7b21abeafce2e031c1037f",
+      "原位置": "H3_海区查询实验/报告材料/requirements_绘图.txt"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/交付文件_SHA256.json",
+      "字节": 2259,
+      "SHA256": "05da679ab497b502b69879c866d3115ce401694c12d1dcb408bfc3266f650e98",
+      "原位置": "H3_海区查询实验/报告材料/交付文件_SHA256.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图注.md",
+      "字节": 4123,
+      "SHA256": "7f14c5b0c17e4b7b476880ef8583a35212897f60d76a78da5e3ed42435bd0b2f",
+      "原位置": "H3_海区查询实验/报告材料/图注.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图1_海区与点分布.png",
+      "字节": 1042323,
+      "SHA256": "dfe8857092c47bb24512a702f42f931f52e460de5c0b7634db634c8c77ab38b6",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图1_海区与点分布.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图1_海区与点分布.svg",
+      "字节": 3456597,
+      "SHA256": "9c21718d1e8993121a774494c1bf19958485075d9ae4905f2f081621eb8b823a",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图1_海区与点分布.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图2_固定方法完整成本.png",
+      "字节": 415894,
+      "SHA256": "b31f2125232f039d1c9358fd26efba9fda78148be7f2f813c084e8d8a767eb17",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图2_固定方法完整成本.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图2_固定方法完整成本.svg",
+      "字节": 240789,
+      "SHA256": "305e8badae058e2b7eb6949eefd264f613a8ea68c31e0eb8c694194bb95c61a2",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图2_固定方法完整成本.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图3_策略净节省与波动.png",
+      "字节": 715369,
+      "SHA256": "9cade2e0cfa4230f61a6767604eb94e7c1735b027bfd1545e3569893f1a6384f",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图3_策略净节省与波动.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图3_策略净节省与波动.svg",
+      "字节": 389457,
+      "SHA256": "8fe6b0c8e70dc5da6fb9ce9dd6750b378e813e1872b3a76079196146d7d69872",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图3_策略净节省与波动.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图4_比例与冻结区间.png",
+      "字节": 395688,
+      "SHA256": "c970bf976b6ab84368aaf9ccc6287c98d7c022f9b5713a595fcad172d0e81222",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图4_比例与冻结区间.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/图4_比例与冻结区间.svg",
+      "字节": 171134,
+      "SHA256": "693a0a90fadaf8e8f6688a940b99dcac4cfdf3b9527484b25154aa3f0997e854",
+      "原位置": "H3_海区查询实验/报告材料/图稿/图4_比例与冻结区间.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.png",
+      "字节": 377185,
+      "SHA256": "27f26be78e972956442435953c32a60b505f08a8e493340563740edda7fd99ff",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.svg",
+      "字节": 3422062,
+      "SHA256": "1885bf423c0c172ca7eb0de92f2a2f8a38e1a09029270b984b27c2cc279d6d42",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.png",
+      "字节": 224028,
+      "SHA256": "2e54075f566ac0e37a6ee74d7faeac62ffc0e84387c9e0ba40c63052cb398333",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.svg",
+      "字节": 220420,
+      "SHA256": "a0e9e237e0936a0783e9b50af5ed7913f29a0c5a42a66f60445173577346ba80",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.png",
+      "字节": 234416,
+      "SHA256": "8ff7a9f9f0d839aa1c43751576115ad5afc2263f815bcaa4f1f35675cc6b1c4f",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.svg",
+      "字节": 149835,
+      "SHA256": "840a0f84b56e746c4501c1bb1245142a16de9f9f6e2b12f235d44163ba0f0f1d",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.png",
+      "字节": 239920,
+      "SHA256": "177915f0ce5049dca2e09f1ad66190c9db5183d654f4912725b84e34eada3d1f",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.svg",
+      "字节": 147322,
+      "SHA256": "512ed0d6df8be8c0fc2556fb9d0bc8ae906ff21082a3989ef889ef4be9d85296",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.png",
+      "字节": 233248,
+      "SHA256": "01493252eab5c1c8a19b4245a29d1c3c238d2c6e318c21044238afd24a3c7a9d",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.svg",
+      "字节": 153708,
+      "SHA256": "6eabb11f59d21c053d7b0fcaa3869fd1e3ad918af0da75e98fed30a5efccbb0d",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.png",
+      "字节": 215984,
+      "SHA256": "8ff87b035d533ae8b59b494297bbeff2213c06691f8d84ec0451d3b89224d9a8",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.svg",
+      "字节": 148184,
+      "SHA256": "47e9fcfb9857872722777dbcacafbcba8a038e5f37f0d10ba480ced5dbdaf8a0",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.png",
+      "字节": 208952,
+      "SHA256": "bf15f9a164b8f34d6fc6a41c59ac76186f7a669d09ac2b59a25ae2d52fc2bb8a",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.svg",
+      "字节": 144771,
+      "SHA256": "4a95e8113760b67f36c847929a70d5701538607d339d4cb599c92224cc49dd06",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.svg"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/正文图来源与检查.json",
+      "字节": 4205,
+      "SHA256": "4a85f5033452002235a79cf7b7e283879d5842d7f5a8cf2f6ad642895f760826",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/正文图来源与检查.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿/正文版/正文图视觉复核.json",
+      "字节": 4247,
+      "SHA256": "87569085d1270b6e65fb9789622dab0f01f58f0bf055f2c0cc8956934bf71527",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/正文图视觉复核.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图稿检查.json",
+      "字节": 2218,
+      "SHA256": "ea8a41992679aa34a27e02cc2587b43cb95d45d3c6e1f56e77d1aca458ca904a",
+      "原位置": "H3_海区查询实验/报告材料/图稿检查.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图表数据/图2_固定方法绘图数据.csv",
+      "字节": 3753,
+      "SHA256": "172fb92bd4d10049988f72a36874502b0f67036459a859424650a4296a6caf43",
+      "原位置": "H3_海区查询实验/报告材料/图表数据/图2_固定方法绘图数据.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图表数据/图3_原始配对差.csv",
+      "字节": 42285,
+      "SHA256": "730fc0cf9ab66d44fd674d5514ce935ea5a5d9908243037a06f92e3bb8f17bec",
+      "原位置": "H3_海区查询实验/报告材料/图表数据/图3_原始配对差.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图表数据/图3_同轮净节省绘图数据.csv",
+      "字节": 10046,
+      "SHA256": "c2df5d08dd4321baf2a881803f7e28b23bd9ee33e49fc9eb0953c8e0423f61dc",
+      "原位置": "H3_海区查询实验/报告材料/图表数据/图3_同轮净节省绘图数据.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图表数据/图4_冻结区间原记录.csv",
+      "字节": 2175,
+      "SHA256": "cb6bd25c1a9cbc2a4d2b6c1bc17a27e49bef2953e5a40e050a3783e20dff4164",
+      "原位置": "H3_海区查询实验/报告材料/图表数据/图4_冻结区间原记录.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图表数据/图4_比例绘图数据.csv",
+      "字节": 753,
+      "SHA256": "11a96c399d19e543e3cf20f22572b47b5218c3dced84f023c1bab8ed650e7922",
+      "原位置": "H3_海区查询实验/报告材料/图表数据/图4_比例绘图数据.csv"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/图表数据来源说明.md",
+      "字节": 9535,
+      "SHA256": "98ade7b4c449f1ef1e1b3e2be2a8300b4f1a769030bb70180fbe89c02b6342ee",
+      "原位置": "H3_海区查询实验/报告材料/图表数据来源说明.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/完整初稿_交付指纹.json",
+      "字节": 2778,
+      "SHA256": "11701cef711a1210a82db6da65cd04abb25f833bc11eebdd4ddd2942c0f9c517",
+      "原位置": "H3_海区查询实验/报告材料/完整初稿_交付指纹.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/完整初稿_核对记录.json",
+      "字节": 1158,
+      "SHA256": "f2c30e4b291d85fbde3dde357c0485d8a0a8b7673f412bf677d6a9dbcfc48095",
+      "原位置": "H3_海区查询实验/报告材料/完整初稿_核对记录.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/完整报告_材料索引补充.md",
+      "字节": 4011,
+      "SHA256": "266b37fcb9a5249fbf8a43268cb0581d55f3615db4f44de2f939260a58078e1c",
+      "原位置": "H3_海区查询实验/报告材料/完整报告_材料索引补充.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/完整报告_附录数据核对.json",
+      "字节": 12110,
+      "SHA256": "af8736eaa0622007a79ee41d049c02bc01eb231fed64ee8c3a22cfbd45172440",
+      "原位置": "H3_海区查询实验/报告材料/完整报告_附录数据核对.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/完整报告_附录数据片段.md",
+      "字节": 17163,
+      "SHA256": "edd9543a04121bbc8967ef8f3e99d5318dc22da32b8b99f4aa5eaf515e64f8aa",
+      "原位置": "H3_海区查询实验/报告材料/完整报告_附录数据片段.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/实验报告_完整初稿.md",
+      "字节": 53848,
+      "SHA256": "7b3314ba7fb942dd534f3ab560b9978eff0c430fa70f09d1e5577ab6161ffa69",
+      "原位置": "H3_海区查询实验/报告材料/实验报告_完整初稿.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/build_review_docx.py",
+      "字节": 24743,
+      "SHA256": "5bf9c4d3b2c6fa1dbde9529628d7f1ef1696ce025469b612f3c89412185e58a1",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/build_review_docx.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/check_review.py",
+      "字节": 5955,
+      "SHA256": "779748855d477c24e99e5dadba919f2dac91307e93b87b8db3a58e8d4f3f2e60",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/check_review.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/export_word_pdf.ps1",
+      "字节": 9117,
+      "SHA256": "075cd0bcf75145e2cda5dba25f2a665a2df1a1f0d27aa43df08eebb6b9893a45",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/export_word_pdf.ps1"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/render_review.py",
+      "字节": 4527,
+      "SHA256": "090c8c1525bb805cdaf1c2d32837b46335f5afa40d4144574afbc07ff191db2e",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/render_review.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/交付指纹.json",
+      "字节": 2386,
+      "SHA256": "4d1376db33a5e39d82fce053ff78fc981e6e51123deb92f3b1f44a63c77d252a",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/交付指纹.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/内容修订建议.json",
+      "字节": 7362,
+      "SHA256": "39e27b091a6537bc594bc66be6467f97312879bd6c8cb0641f10c274eeb1c6c4",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/内容修订建议.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/审阅版检查.json",
+      "字节": 5384,
+      "SHA256": "af48cd6cc69c62dc1a89c1df35fc1c0ab347de7792e8eb1d25738eb0f31fea70",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/审阅版检查.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版制作/构建记录.json",
+      "字节": 1298,
+      "SHA256": "4733a06ebab642b42bb71054da4652adf1bca7c9cafd89f41df413959495acb7",
+      "原位置": "H3_海区查询实验/报告材料/审阅版制作/构建记录.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版说明.md",
+      "字节": 4288,
+      "SHA256": "87ff192d44759a863062098d9b7751f96ea4753720635c75b6ea1b4bc8105b0b",
+      "原位置": "H3_海区查询实验/报告材料/审阅版说明.md",
+      "原SHA256": "9b788e8067993fc6c318890591e18bb6db082d386d0f80a747d4a73d4495c4a2"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-1.png",
+      "字节": 71689,
+      "SHA256": "8cf80136c5b81766ba8a3d330ad78190adc28c6b184afe433c5d14080794e4ef",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-1.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-10.png",
+      "字节": 358401,
+      "SHA256": "3bb58f8128c99ba7cb517b6c19a6e3d15cf40c012564a15060d7bd09f49e22e1",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-10.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-11.png",
+      "字节": 344850,
+      "SHA256": "9d54375b9ce0fce354eb8fc5c9b9fa51271841bd22169a7fdb9b4adffc94f92c",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-11.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-12.png",
+      "字节": 389110,
+      "SHA256": "9f6e6ff22e7e2443e92684c9241dd85a5c0d1f590850a5e9faba8c055218ed1e",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-12.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-13.png",
+      "字节": 420216,
+      "SHA256": "bc9afc3509e67acd7d6a76dcb322d66ad9231d5b6cc62db97e5c3eca4010a5ba",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-13.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-14.png",
+      "字节": 363101,
+      "SHA256": "06bc517fc51de72931645197c4758d803b92e3014a2e2aa7e32cb04fd125279b",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-14.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-15.png",
+      "字节": 191401,
+      "SHA256": "db1b7b3c1f853e55d8278f92953543916f9916e840615c3b72c38674c3dceea7",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-15.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-16.png",
+      "字节": 415006,
+      "SHA256": "5a80f7eb92be41d7084573db8d7da095522108e36c4604e65e572db18abbca5e",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-16.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-17.png",
+      "字节": 302707,
+      "SHA256": "4fbbddb76344b4acca377186a9e7a3a1168ee8c4dcc2aff473dcdcc63f798a97",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-17.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-18.png",
+      "字节": 288369,
+      "SHA256": "bfd9fda0b7254de87e83650ea623415b94db7c3edfd94effaf3a94aca9b04507",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-18.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-19.png",
+      "字节": 230000,
+      "SHA256": "03d4ef0a7ffa192862bafe0b0f283f1ed762c0d3b33125622806eec77deaebe8",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-19.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-2.png",
+      "字节": 484615,
+      "SHA256": "f2feba53710424dd9a37b26ba57be276a10201e90cabfbe1390dbf2972ee24bc",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-2.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-20.png",
+      "字节": 210572,
+      "SHA256": "ede08d5ca29c222da3bf2bf866d2456e27f7245c3306e360c284df92febe6a13",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-20.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-21.png",
+      "字节": 438211,
+      "SHA256": "57e73b89d47609d707388301ac51fb1add3525313cb4cff4e054ba1d04a9e188",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-21.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-22.png",
+      "字节": 574937,
+      "SHA256": "aecb666cc97b5938001698f0cb28bac242d10de455eb5a510775ed8cff0dd9b4",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-22.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-23.png",
+      "字节": 277506,
+      "SHA256": "cd2c505d834e8568ba7867f5e4e7612ba078d30cd0df3648480aab8956984cd3",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-23.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-24.png",
+      "字节": 231464,
+      "SHA256": "3e24c144c8dcff5b9ce4a989831dc804244a4dea185463d7110692249973f707",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-24.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-25.png",
+      "字节": 200408,
+      "SHA256": "302c7fcaeb35a3133bfc0cdbd8a3f55ae9ee3538b6a53a393c9e6b235c48fa7f",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-25.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-3.png",
+      "字节": 433899,
+      "SHA256": "772cba89ec732c43de77f22a3c0e6f7f7edc35d8cf6b173fdf54eb3372090daa",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-3.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-4.png",
+      "字节": 439031,
+      "SHA256": "e6259f18249c90adb1cc9c48ffdcd2f80d0e778fba9f8816940461230a394072",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-4.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-5.png",
+      "字节": 398938,
+      "SHA256": "ebc25ca419c083697a82b63d757724b7053ff982f303d164ec534ee14d851a0c",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-5.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-6.png",
+      "字节": 369878,
+      "SHA256": "73581860f5401cce6625002ec5a8e9e4219e5f1e8f6368db8e3736a1790f6c42",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-6.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-7.png",
+      "字节": 358842,
+      "SHA256": "5ed3fc0ced06f50ed49e668eff01804eae99c5f22fdab1298639c987583cd8ae",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-7.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-8.png",
+      "字节": 637283,
+      "SHA256": "27637c365fbe059eef28d04a61b9468d7032c0c5259b5745d595ccc561edb2fa",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-8.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/page-9.png",
+      "字节": 435137,
+      "SHA256": "1f964afd6e039b463edfe6759a31b3ea3e057455e698246d1d3a50090d0a0430",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/page-9.png"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/Word分页.json",
+      "字节": 80466,
+      "SHA256": "ad524e30074794217bf88e26e79ab2c2ddece045e48c6eb42676ede7bff3d387",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/Word分页.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/Word导出错误.json",
+      "字节": 664,
+      "SHA256": "3e5d835bcf2006c9ca95905dc3e29e3601ba70e783709a2960afdd6e0d4705b1",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/Word导出错误.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/审阅版预览/页面渲染.json",
+      "字节": 6829,
+      "SHA256": "e9d4f4204f72a28e0904c0de397c8ab68d5de828dcd5dcb7a29a0303b891ece8",
+      "原位置": "H3_海区查询实验/报告材料/审阅版预览/页面渲染.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/整合完整初稿.py",
+      "字节": 1645,
+      "SHA256": "70fe95249f4639be42cdcc3aedabeaf4936ec9be40f8bd085c41de55673f6ed2",
+      "原位置": "H3_海区查询实验/报告材料/整合完整初稿.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/正文图稿说明.md",
+      "字节": 4039,
+      "SHA256": "5f441d4206d5a39ca3efbb756778cdb04677251831428fe0f4586abd56e05c1e",
+      "原位置": "H3_海区查询实验/报告材料/正文图稿说明.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/海洋数据挖掘实验报告.docx",
+      "字节": 1667964,
+      "SHA256": "d587e738e671dbcd74396de7798c5cd867d87bd256fbc47d5e7ced57becaa1ce",
+      "原位置": "H3_海区查询实验/报告材料/海洋数据挖掘实验报告.docx"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/海洋数据挖掘实验报告.pdf",
+      "字节": 5852959,
+      "SHA256": "9af23db378db0216cf99e0f6bb4e93bd09d65977822ba8ece9e9e5f9c9d9bcc4",
+      "原位置": "H3_海区查询实验/报告材料/海洋数据挖掘实验报告.pdf"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/结果与分析_初稿.md",
+      "字节": 5585,
+      "SHA256": "fe430809b53a2b7d7c207f0b0b1ab908f0abacfb9dab077b926db8885a26c9a7",
+      "原位置": "H3_海区查询实验/报告材料/结果与分析_初稿.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/绘制报告图.py",
+      "字节": 18914,
+      "SHA256": "23f483afb8044859ac81a77dbb13cfe3f7c23eb3e68770f19ddb06fae102c911",
+      "原位置": "H3_海区查询实验/报告材料/绘制报告图.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/绘制正文图.py",
+      "字节": 16689,
+      "SHA256": "9e093d5c82d690b40db9b675802bb2b9129424bdcc86f5cb333f24e1d12c8714",
+      "原位置": "H3_海区查询实验/报告材料/绘制正文图.py"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/绘图来源与环境.json",
+      "字节": 3270,
+      "SHA256": "cd7f801550dd512b578ed6ee0376e3d27beb91403b01cf004123f045ddc379b6",
+      "原位置": "H3_海区查询实验/报告材料/绘图来源与环境.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/报告材料/统计核对.json",
+      "字节": 64767,
+      "SHA256": "dc42fc1edf2c2968c8d77620446dbed1f382d19f9e7a96af549ba16210af27cb",
+      "原位置": "H3_海区查询实验/报告材料/统计核对.json"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/探索对照结果.md",
+      "字节": 671,
+      "SHA256": "45c189b385b616ef8c434cbd8b3955c05d4c009b0c1656da01a8f541eb0fe123",
+      "原位置": "H3_海区查询实验/探索对照结果.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/探索对照说明.md",
+      "字节": 5653,
+      "SHA256": "d07a04d01d1361df54461fd8b33188c125cb198b7eacf05ffd06da67bae6979e",
+      "原位置": "H3_海区查询实验/探索对照说明.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/提交材料清单.md",
+      "字节": 4721,
+      "SHA256": "045b122c27fcac79fb9a596d76de2166cccc151e1509e18a39c000c95692cda6",
+      "原位置": "H3_海区查询实验/提交材料清单.md",
+      "原SHA256": "008bec42736a0ea22fe8c36b68b9cd79226c4ceb5f3b8ef364e346c507917fed"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/本轮解读.md",
+      "字节": 2102,
+      "SHA256": "7e1b8f829638a9f741d360e8e3fa1fb672bc38f17d16b0d46bd56d8ff48e91e4",
+      "原位置": "H3_海区查询实验/本轮解读.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/独立验证复现说明.md",
+      "字节": 5528,
+      "SHA256": "f4d98e86595b5ae0f5a802993bbeadcb6443da3f45c53f2e54a3d757615bc1ef",
+      "原位置": "H3_海区查询实验/独立验证复现说明.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/矩形筛选对照说明.md",
+      "字节": 4068,
+      "SHA256": "aaa0daa963d736f244f54ad813a46d215478b6c98979df74b2f1e9f25d293c81",
+      "原位置": "H3_海区查询实验/矩形筛选对照说明.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/结果速览.md",
+      "字节": 2767,
+      "SHA256": "abd8a39fe08ee374ced44ec0b86536ddae0a5daf43a9ff30f534b9929f0c8cc7",
+      "原位置": "H3_海区查询实验/结果速览.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/选择器校准说明.md",
+      "字节": 5229,
+      "SHA256": "6d47ca3323217c9d4516be657f1cd83ff62e17e48dd53775466a017ce7e20de8",
+      "原位置": "H3_海区查询实验/选择器校准说明.md"
+    },
+    {
+      "路径": "实验代码/H3_海区查询实验/项目总览与复现.md",
+      "字节": 18162,
+      "SHA256": "7dda0ed6bd87bd41eea2887baab451bb1d0a6940ccd0d748e1836c608b20d536",
+      "原位置": "H3_海区查询实验/项目总览与复现.md",
+      "原SHA256": "5a4d8b4e6b26c9f2b3c31cfbaf6640053d4dc712c7dd659af363eae0adc0e976"
+    },
+    {
+      "路径": "实验代码/README.md",
+      "字节": 2705,
+      "SHA256": "ce802ff6ce1000402ad163e347e4bcffd40ccd3a5492c1bfd6d92cfa960334c5"
+    },
+    {
+      "路径": "实验报告/海洋数据挖掘实验报告.docx",
+      "字节": 1667964,
+      "SHA256": "d587e738e671dbcd74396de7798c5cd867d87bd256fbc47d5e7ced57becaa1ce",
+      "原位置": "H3_海区查询实验/报告材料/海洋数据挖掘实验报告.docx"
+    },
+    {
+      "路径": "实验报告/海洋数据挖掘实验报告.pdf",
+      "字节": 5852959,
+      "SHA256": "9af23db378db0216cf99e0f6bb4e93bd09d65977822ba8ece9e9e5f9c9d9bcc4",
+      "原位置": "H3_海区查询实验/报告材料/海洋数据挖掘实验报告.pdf"
+    },
+    {
+      "路径": "实验数据/moderate_3201/generation_rules.json",
+      "字节": 768,
+      "SHA256": "0b46b6ea78ce1104e777e02a3be0531d34306cf62c399705907553fb56305421",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/generation_rules.json"
+    },
+    {
+      "路径": "实验数据/moderate_3201/simulated_points.csv",
+      "字节": 642121,
+      "SHA256": "4f9e8a4d843dd68ae5b095f15f4b0e5aabce9d15f145d08134c3f88cdd426260",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验数据/moderate_3201/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3201/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验数据/moderate_3202/generation_rules.json",
+      "字节": 768,
+      "SHA256": "f3b0a6a9bf5ad89a78fd881d410ade754ce41f78f5b4c5121777f2e0244fc9e3",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/generation_rules.json"
+    },
+    {
+      "路径": "实验数据/moderate_3202/simulated_points.csv",
+      "字节": 642179,
+      "SHA256": "567059c94fd7821ff5484b08dc89660621498d3a4c7ecb20134cad5e39ad7cf1",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验数据/moderate_3202/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/moderate_3202/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验数据/README.md",
+      "字节": 1490,
+      "SHA256": "cfd1d89573334ce552255d7847a1e9a9fa990921dc8922aa4c3d33460ef6e6ef"
+    },
+    {
+      "路径": "实验数据/strong_3301/generation_rules.json",
+      "字节": 766,
+      "SHA256": "5aa247ad633c0c4971240bcd4efc880955a4ab812ccce2560700999dc19ef09f",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/generation_rules.json"
+    },
+    {
+      "路径": "实验数据/strong_3301/simulated_points.csv",
+      "字节": 656094,
+      "SHA256": "fd96fabd1f37d144e3f7aea9bdacc3f7495f8e17a26c34ea5b604df1ea87811e",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验数据/strong_3301/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3301/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验数据/strong_3302/generation_rules.json",
+      "字节": 766,
+      "SHA256": "bdbdbaeebfd7de61f44050212244fbe17117b6fc1f772ed2ed0128e4cebd9274",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/generation_rules.json"
+    },
+    {
+      "路径": "实验数据/strong_3302/simulated_points.csv",
+      "字节": 656006,
+      "SHA256": "ac492714fbd3d13d2c32319fe2d6ef3e41126a0c22e3a034aa5e2ffd0c4a855e",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验数据/strong_3302/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/strong_3302/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验数据/uniform_3101/generation_rules.json",
+      "字节": 631,
+      "SHA256": "ba96103a748cf362194d56f52653558159ef5878c5a755f56bfa019420071c3a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/generation_rules.json"
+    },
+    {
+      "路径": "实验数据/uniform_3101/simulated_points.csv",
+      "字节": 628134,
+      "SHA256": "07c2d4e4702528455be126251ec3eca68d052377415fddef523cf6e2e8348d2a",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验数据/uniform_3101/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3101/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验数据/uniform_3102/generation_rules.json",
+      "字节": 631,
+      "SHA256": "617adea7778550bcf3ec9d3dfc1f8120b1b5d7d3de3b5ed67e6b143a149521fc",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/generation_rules.json"
+    },
+    {
+      "路径": "实验数据/uniform_3102/simulated_points.csv",
+      "字节": 628089,
+      "SHA256": "77523855cc42dd5305f882db92f883323e1c67ba71ced5e74c6ffa2c22df439b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_points.csv"
+    },
+    {
+      "路径": "实验数据/uniform_3102/simulated_sea.geojson",
+      "字节": 711,
+      "SHA256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/datasets/uniform_3102/data/simulated_sea.geojson"
+    },
+    {
+      "路径": "实验结果与图片/README.md",
+      "字节": 2340,
+      "SHA256": "a97dd2cd46d894ed3c801f73da41af19f258aa0c9bed5edf1b93d1e6550e4b38"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图1_海区与点分布.png",
+      "字节": 377185,
+      "SHA256": "27f26be78e972956442435953c32a60b505f08a8e493340563740edda7fd99ff",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.png"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图1_海区与点分布.svg",
+      "字节": 3422062,
+      "SHA256": "1885bf423c0c172ca7eb0de92f2a2f8a38e1a09029270b984b27c2cc279d6d42",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图1_海区与点分布.svg"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图2_固定方法完整成本.png",
+      "字节": 224028,
+      "SHA256": "2e54075f566ac0e37a6ee74d7faeac62ffc0e84387c9e0ba40c63052cb398333",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.png"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图2_固定方法完整成本.svg",
+      "字节": 220420,
+      "SHA256": "a0e9e237e0936a0783e9b50af5ed7913f29a0c5a42a66f60445173577346ba80",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图2_固定方法完整成本.svg"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3a_二选一相对Konly.png",
+      "字节": 234416,
+      "SHA256": "8ff7a9f9f0d839aa1c43751576115ad5afc2263f815bcaa4f1f35675cc6b1c4f",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.png"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3a_二选一相对Konly.svg",
+      "字节": 149835,
+      "SHA256": "840a0f84b56e746c4501c1bb1245142a16de9f9f6e2b12f235d44163ba0f0f1d",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3a_二选一相对Konly.svg"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3b_四选一相对二选一.png",
+      "字节": 239920,
+      "SHA256": "177915f0ce5049dca2e09f1ad66190c9db5183d654f4912725b84e34eada3d1f",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.png"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3b_四选一相对二选一.svg",
+      "字节": 147322,
+      "SHA256": "512ed0d6df8be8c0fc2556fb9d0bc8ae906ff21082a3989ef889ef4be9d85296",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3b_四选一相对二选一.svg"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3c_四选一相对直接.png",
+      "字节": 233248,
+      "SHA256": "01493252eab5c1c8a19b4245a29d1c3c238d2c6e318c21044238afd24a3c7a9d",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.png"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3c_四选一相对直接.svg",
+      "字节": 153708,
+      "SHA256": "6eabb11f59d21c053d7b0fcaa3869fd1e3ad918af0da75e98fed30a5efccbb0d",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3c_四选一相对直接.svg"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3d_四选一相对r7.png",
+      "字节": 215984,
+      "SHA256": "8ff87b035d533ae8b59b494297bbeff2213c06691f8d84ec0451d3b89224d9a8",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.png"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图3d_四选一相对r7.svg",
+      "字节": 148184,
+      "SHA256": "47e9fcfb9857872722777dbcacafbcba8a038e5f37f0d10ba480ced5dbdaf8a0",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图3d_四选一相对r7.svg"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图4_比例与冻结区间.png",
+      "字节": 208952,
+      "SHA256": "bf15f9a164b8f34d6fc6a41c59ac76186f7a669d09ac2b59a25ae2d52fc2bb8a",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.png"
+    },
+    {
+      "路径": "实验结果与图片/图稿/图4_比例与冻结区间.svg",
+      "字节": 144771,
+      "SHA256": "4a95e8113760b67f36c847929a70d5701538607d339d4cb599c92224cc49dd06",
+      "原位置": "H3_海区查询实验/报告材料/图稿/正文版/图4_比例与冻结区间.svg"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/comparisons.csv",
+      "字节": 14568,
+      "SHA256": "72a7ce6417b6d3ee8280ee448f3168b246107f5932a4fb8d403eb5d04c4ce728",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/comparisons.csv"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/correctness.json",
+      "字节": 25727,
+      "SHA256": "4c5c2e93188def2c5f948d3dd3719a6f224c2e979074b283b708f58624d65736",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/correctness.json"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/posthoc_diagnostics.csv",
+      "字节": 10968,
+      "SHA256": "d61a96da57d623a4752cd74b08f854c057f7e649cc85e12477ed66dc6bb7ff3b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_diagnostics.csv"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/posthoc_oracle.csv",
+      "字节": 1249,
+      "SHA256": "4d913f2e53a5f8f8609069f2b3b29e15de0015f0feade64df930b41a283c7286",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/posthoc_oracle.csv"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/prerecommendation_summary.csv",
+      "字节": 3296,
+      "SHA256": "9e322475df3371063725658f3ccccaff20eea3aa4646c7e3d87ac266ac30f119",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/prerecommendation_summary.csv"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/sample_feature_errors.csv",
+      "字节": 753,
+      "SHA256": "11a96c399d19e543e3cf20f22572b47b5218c3dced84f023c1bab8ed650e7922",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/sample_feature_errors.csv"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/strategy_regret.csv",
+      "字节": 17725,
+      "SHA256": "7fe485d2a693b61e418ff0e2a6dd0d47b0edb5cd8c92be10d3e8a414e11a1c6b",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/strategy_regret.csv"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/summary.csv",
+      "字节": 14225,
+      "SHA256": "c768a5806e29d5578c80aa6e037dedcca010eaa584b30825c40d5c3ae67725b3",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/summary.csv"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/独立验证结果.md",
+      "字节": 13782,
+      "SHA256": "f0398a3944a7f7544dc70f9a4ffc76a937b9f26afb01a7faef716155f0f00665",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/独立验证结果.md"
+    },
+    {
+      "路径": "实验结果与图片/统计结果/结果要点与净节省表.md",
+      "字节": 9811,
+      "SHA256": "87678facdf443c904c29918ee1e28bf366b6967a4ad32a7d3ae92fc6947f585c",
+      "原位置": "H3_海区查询实验/runs/validation_20261111_151150_257869/结果要点与净节省表.md"
+    }
+  ]
+}

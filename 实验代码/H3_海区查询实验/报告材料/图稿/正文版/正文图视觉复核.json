@@ -1,0 +1,136 @@
+{
+  "status": "passed",
+  "intended_body_width_mm": 160,
+  "minimum_font_pt": 8,
+  "old_material_files_verified_unchanged": 21,
+  "input_files_verified_unchanged": 11,
+  "no_new_query_sampling_generation_or_fitting": true,
+  "visual_review": [
+    "全部7幅最终PNG逐幅打开检查",
+    "中文、负号、图例、坐标、零线与正文尺寸可读",
+    "图2页脚重叠已修正；最终字号至少8pt",
+    "图3a—d各18场景及126原始点；保持全部符号方向",
+    "SVG可解析，文字转字形，未嵌入栅格"
+  ],
+  "files": [
+    {
+      "png": "图1_海区与点分布.png",
+      "png_sha256": "27f26be78e972956442435953c32a60b505f08a8e493340563740edda7fd99ff",
+      "png_dimensions": [
+        1889,
+        1240
+      ],
+      "png_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图1_海区与点分布.svg",
+      "svg_sha256": "1885bf423c0c172ca7eb0de92f2a2f8a38e1a09029270b984b27c2cc279d6d42",
+      "opened_for_visual_check": true,
+      "svg_valid": true,
+      "embedded_raster_images": 0
+    },
+    {
+      "png": "图2_固定方法完整成本.png",
+      "png_sha256": "2e54075f566ac0e37a6ee74d7faeac62ffc0e84387c9e0ba40c63052cb398333",
+      "png_dimensions": [
+        1889,
+        2066
+      ],
+      "png_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图2_固定方法完整成本.svg",
+      "svg_sha256": "a0e9e237e0936a0783e9b50af5ed7913f29a0c5a42a66f60445173577346ba80",
+      "opened_for_visual_check": true,
+      "svg_valid": true,
+      "embedded_raster_images": 0
+    },
+    {
+      "png": "图3a_二选一相对Konly.png",
+      "png_sha256": "8ff7a9f9f0d839aa1c43751576115ad5afc2263f815bcaa4f1f35675cc6b1c4f",
+      "png_dimensions": [
+        1889,
+        1866
+      ],
+      "png_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图3a_二选一相对Konly.svg",
+      "svg_sha256": "840a0f84b56e746c4501c1bb1245142a16de9f9f6e2b12f235d44163ba0f0f1d",
+      "opened_for_visual_check": true,
+      "svg_valid": true,
+      "embedded_raster_images": 0
+    },
+    {
+      "png": "图3b_四选一相对二选一.png",
+      "png_sha256": "177915f0ce5049dca2e09f1ad66190c9db5183d654f4912725b84e34eada3d1f",
+      "png_dimensions": [
+        1889,
+        1866
+      ],
+      "png_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图3b_四选一相对二选一.svg",
+      "svg_sha256": "512ed0d6df8be8c0fc2556fb9d0bc8ae906ff21082a3989ef889ef4be9d85296",
+      "opened_for_visual_check": true,
+      "svg_valid": true,
+      "embedded_raster_images": 0
+    },
+    {
+      "png": "图3c_四选一相对直接.png",
+      "png_sha256": "01493252eab5c1c8a19b4245a29d1c3c238d2c6e318c21044238afd24a3c7a9d",
+      "png_dimensions": [
+        1889,
+        1866
+      ],
+      "png_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图3c_四选一相对直接.svg",
+      "svg_sha256": "6eabb11f59d21c053d7b0fcaa3869fd1e3ad918af0da75e98fed30a5efccbb0d",
+      "opened_for_visual_check": true,
+      "svg_valid": true,
+      "embedded_raster_images": 0
+    },
+    {
+      "png": "图3d_四选一相对r7.png",
+      "png_sha256": "8ff87b035d533ae8b59b494297bbeff2213c06691f8d84ec0451d3b89224d9a8",
+      "png_dimensions": [
+        1889,
+        1866
+      ],
+      "png_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图3d_四选一相对r7.svg",
+      "svg_sha256": "47e9fcfb9857872722777dbcacafbcba8a038e5f37f0d10ba480ced5dbdaf8a0",
+      "opened_for_visual_check": true,
+      "svg_valid": true,
+      "embedded_raster_images": 0
+    },
+    {
+      "png": "图4_比例与冻结区间.png",
+      "png_sha256": "bf15f9a164b8f34d6fc6a41c59ac76186f7a669d09ac2b59a25ae2d52fc2bb8a",
+      "png_dimensions": [
+        1889,
+        1818
+      ],
+      "png_dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图4_比例与冻结区间.svg",
+      "svg_sha256": "4a95e8113760b67f36c847929a70d5701538607d339d4cb599c92224cc49dd06",
+      "opened_for_visual_check": true,
+      "svg_valid": true,
+      "embedded_raster_images": 0
+    }
+  ]
+}

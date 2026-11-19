@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "master": "实验报告_审阅版.docx",
+  "preview_only": "实验报告_审阅版.pdf",
+  "files": [
+    {
+      "path_relative_to_materials": "实验报告_审阅版.docx",
+      "sha256": "0949b716dd27ca97f70783ace0f3596ec75a8dd4e8d0860e56be1b8713546270"
+    },
+    {
+      "path_relative_to_materials": "实验报告_审阅版.pdf",
+      "sha256": "97d01634d8b70ba42da0e045e76cf2c0d944e3e01b415e839fecc7569e8bdc94"
+    },
+    {
+      "path_relative_to_materials": "审阅版说明.md",
+      "sha256": "9b788e8067993fc6c318890591e18bb6db082d386d0f80a747d4a73d4495c4a2"
+    },
+    {
+      "path_relative_to_materials": "实验报告_完整初稿.md",
+      "sha256": "7b3314ba7fb942dd534f3ab560b9978eff0c430fa70f09d1e5577ab6161ffa69"
+    },
+    {
+      "path_relative_to_materials": "../runs/selector_cal_20261111_140827_086716/online_model.json",
+      "sha256": "f128d8595195128ae0d6f8f786fe77fb6951971b26c3e4de2841134aa7d1d096"
+    },
+    {
+      "path_relative_to_materials": "审阅版制作/build_review_docx.py",
+      "sha256": "5bf9c4d3b2c6fa1dbde9529628d7f1ef1696ce025469b612f3c89412185e58a1"
+    },
+    {
+      "path_relative_to_materials": "审阅版制作/export_word_pdf.ps1",
+      "sha256": "075cd0bcf75145e2cda5dba25f2a665a2df1a1f0d27aa43df08eebb6b9893a45"
+    },
+    {
+      "path_relative_to_materials": "审阅版制作/render_review.py",
+      "sha256": "090c8c1525bb805cdaf1c2d32837b46335f5afa40d4144574afbc07ff191db2e"
+    },
+    {
+      "path_relative_to_materials": "审阅版制作/check_review.py",
+      "sha256": "779748855d477c24e99e5dadba919f2dac91307e93b87b8db3a58e8d4f3f2e60"
+    },
+    {
+      "path_relative_to_materials": "审阅版制作/内容修订建议.json",
+      "sha256": "39e27b091a6537bc594bc66be6467f97312879bd6c8cb0641f10c274eeb1c6c4"
+    },
+    {
+      "path_relative_to_materials": "审阅版制作/构建记录.json",
+      "sha256": "4733a06ebab642b42bb71054da4652adf1bca7c9cafd89f41df413959495acb7"
+    },
+    {
+      "path_relative_to_materials": "审阅版制作/审阅版检查.json",
+      "sha256": "af48cd6cc69c62dc1a89c1df35fc1c0ab347de7792e8eb1d25738eb0f31fea70"
+    },
+    {
+      "path_relative_to_materials": "审阅版预览/Word分页.json",
+      "sha256": "ad524e30074794217bf88e26e79ab2c2ddece045e48c6eb42676ede7bff3d387"
+    }
+  ]
+}

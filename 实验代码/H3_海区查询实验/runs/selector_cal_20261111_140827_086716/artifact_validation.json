@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "fixed_normal_trials": 224,
+  "normal_selection_trials": 1116,
+  "diagnostic_selection_trials": 612,
+  "coefficients_refitted_exactly": true,
+  "K100_excluded_from_fit_confirmed": true,
+  "all_prediction_checks_recomputed": true,
+  "all_normal_selection_cost_medians_recomputed": true,
+  "analytic_intervals_recomputed": true,
+  "possible_sample_grid_extra_selections": {
+    "100": [],
+    "1000": [
+      0.51,
+      0.515
+    ]
+  },
+  "old_files_verified": 248,
+  "new_validation_data_generated_or_read": false
+}

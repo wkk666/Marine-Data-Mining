@@ -1,0 +1,10 @@
+{
+  "status": "completed_calibration_only",
+  "new_methods_have_region": true,
+  "stop_reason": "await_independent_validation_authorization",
+  "fixed_trials": 224,
+  "normal_selection_trials": 1116,
+  "diagnostic_trials": 612,
+  "old_files_unchanged": true,
+  "new_validation_data_generated_or_read": false
+}

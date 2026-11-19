@@ -1,0 +1,872 @@
+{
+  "uniform_3101": {
+    "direct": {
+      "selected_points": 2110,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": null
+    },
+    "r6": {
+      "selected_points": 2110,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "selected_points": 2110,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "selected_points": 2110,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "k_only_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K100": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K100": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    }
+  },
+  "uniform_3102": {
+    "direct": {
+      "selected_points": 2195,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": null
+    },
+    "r6": {
+      "selected_points": 2195,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "selected_points": 2195,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "selected_points": 2195,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "k_only_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K100": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K100": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    }
+  },
+  "moderate_3201": {
+    "direct": {
+      "selected_points": 3242,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": null
+    },
+    "r6": {
+      "selected_points": 3242,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "selected_points": 3242,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "selected_points": 3242,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "k_only_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    }
+  },
+  "moderate_3202": {
+    "direct": {
+      "selected_points": 3292,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": null
+    },
+    "r6": {
+      "selected_points": 3292,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "selected_points": 3292,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "selected_points": 3292,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "k_only_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    }
+  },
+  "strong_3301": {
+    "direct": {
+      "selected_points": 4446,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": null
+    },
+    "r6": {
+      "selected_points": 4446,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "selected_points": 4446,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "selected_points": 4446,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "k_only_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1000": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1000": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    }
+  },
+  "strong_3302": {
+    "direct": {
+      "selected_points": 4440,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": null
+    },
+    "r6": {
+      "selected_points": 4440,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 50,
+        "cover_cells": 36,
+        "internal_cells": 7,
+        "border_cells": 29,
+        "discarded_nonintersecting_envelope_cells": 14,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 89,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r7": {
+      "selected_points": 4440,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 213,
+        "cover_cells": 181,
+        "internal_cells": 100,
+        "border_cells": 81,
+        "discarded_nonintersecting_envelope_cells": 32,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 456,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "r8": {
+      "selected_points": 4440,
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "coverage": {
+        "enumeration_mode": "bbox_overlap_then_planar_intersects",
+        "enumerated_cells": 1165,
+        "cover_cells": 1077,
+        "internal_cells": 856,
+        "border_cells": 221,
+        "discarded_nonintersecting_envelope_cells": 88,
+        "union_covers_entire_region": true,
+        "uncovered_area_square_degrees": 0.0,
+        "extended_rectangle_cells": 2801,
+        "missing_vs_extended_rectangle": [],
+        "extra_vs_extended_rectangle": [],
+        "passed": true
+      }
+    },
+    "k_only_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K100": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "k_only_K1000": {
+      "selected": "r7",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_two_K1000": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    },
+    "sample_four_K1000": {
+      "selected": "direct",
+      "false_positive": 0,
+      "false_negative": 0,
+      "duplicates": 0,
+      "boundary_probes_passed": true,
+      "prerecommendation_match": true
+    }
+  }
+}

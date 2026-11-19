@@ -1,0 +1,5 @@
+﻿method,prepare_trials,query_trials,selected_points,false_positive,false_negative,cover_cells,internal_cells,border_cells,candidate_points,exact_points,geometry_prepare_ms,point_index_ms,point_encoding_ms,index_grouping_ms,cover_generation_ms,cell_classification_ms,prepare_total_ms,first_query_ms,one_shot_total_ms,query_ms,exact_predicate_ms,lookup_and_gather_ms,assemble_result_ms,query_min_ms,query_max_ms
+direct,7,31,2102,0,0,0,0,0,2503,2503,0.0195,0.0,0.0,0.0,0.0,0.0,0.0207,0.1946,0.2163,0.1643,0.1433,0.0159,0.0052,0.1626,0.1772
+h3_r6,7,31,2102,0,0,36,7,29,3816,3093,0.0179,4.2263,3.7949,0.414,0.244,0.422,4.9333,0.1843,5.1348,0.1468,0.1284,0.0108,0.0073,0.1433,0.1573
+h3_r7,7,31,2102,0,0,181,100,81,2776,1241,0.0204,4.7331,4.1891,0.5444,0.3983,1.6609,6.7959,0.1189,6.8924,0.0876,0.0553,0.0272,0.0047,0.0849,0.0927
+h3_r8,7,31,2102,0,0,1077,856,221,2343,485,0.0174,5.6477,4.352,1.2845,0.9101,9.1531,15.7804,0.2046,15.9617,0.1483,0.0235,0.1208,0.004,0.1443,0.1537

@@ -1,0 +1,11 @@
+{
+  "status": "completed_independent_validation",
+  "formal_records": 882,
+  "prerecommendations": 54,
+  "datasets": 6,
+  "scenarios": 18,
+  "old_files_unchanged": true,
+  "code_model_protocol_unchanged": true,
+  "additional_seeds_or_experiments": false,
+  "new_resolution_triggers": 0
+}

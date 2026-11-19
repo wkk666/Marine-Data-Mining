@@ -1,0 +1,3 @@
+# Preserve the original bytes of frozen code, CSV, JSON and other evidence.
+# Disable Git text newline normalization locally (including core.autocrlf).
+* -text

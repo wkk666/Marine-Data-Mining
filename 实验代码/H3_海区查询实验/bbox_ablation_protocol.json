@@ -1,0 +1,23 @@
+{
+  "experiment": "Single-factor inclusive bbox filter after H3 border gathering",
+  "source_run": "runs/explore_20261110_221236_751069",
+  "datasets": ["uniform_A","uniform_B","boundary_A","boundary_B"],
+  "regenerate_data": false,
+  "K": 1000,
+  "whole_batch_repeats": 7,
+  "profile_repeats": 31,
+  "order_seed": 20261111,
+  "methods": ["direct","h3_r6","h3_r6_bbox","h3_r7","h3_r7_bbox","h3_r8","h3_r8_bbox"],
+  "unchanged_preparation": "Original prepare_method for both H3 variants; each whole trial prepares afresh",
+  "original_query": "Original run_experiment.query, unchanged",
+  "new_query": "Same H3 gather and internal acceptance; after gathering x,y for border rows, inclusive bbox mask compacts row indices and both coordinate arrays, then same exact predicate",
+  "bbox_predicate": "x>=xmin and x<=xmax and y>=ymin and y<=ymax",
+  "main_measurement": "Single outer wall timer: fresh preparation plus 1000 consecutive query calls, every call allocates its result normally; no final result cache",
+  "main_instrumentation": "New bbox variant uses same core timing boundaries and normal metrics as original; extra bbox phase clocks enabled only in separate profiling trials",
+  "profiling": "All seven methods randomly interleaved in same profiling round; original uses original exact clocks; bbox variant separately records mask+three-array compaction, exact predicate, gather and assembly; profile ranking is not substituted for main end-to-end ranking",
+  "correctness": "Full ID-set, false-positive/negative, duplicate, edge-probe and coverage checks before benchmark; post-batch and post-profile ID checks outside timers",
+  "excluded": ["loading/saving files","correctness comparisons","coverage audit","imports"],
+  "warmup": "One fresh preparation+query per method/dataset before whole trials; profile states prepared outside timing then three query warmups",
+  "gc": "Uniformly disabled during trials, restored afterwards",
+  "parameter_tuning_after_results": false
+}

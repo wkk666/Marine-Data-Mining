@@ -1,0 +1,15 @@
+{
+  "frozen_before_generation": "2026-11-11T15:11:50.312146+08:00",
+  "code_sha256": {
+    "run_independent_validation.py": "914481258e9ac90aed13a712d2e3a4763a402b6acbfc0bb30e7a2191c704554c",
+    "test_independent_validation.py": "1bddd3bad9d8635f04d75a9d99660ab99e14612b5522025b84fec06e9072a445",
+    "selector_engine.py": "5524800f59662f4d5fd2e38e94fdaf1a5778fbafe1bb6ec74417bc3d81ee25cb",
+    "selector_decision.py": "ebe6802e850a11bc5838d17067e3d5f59212a3e156cb68262c33976d26ce14ef",
+    "run_experiment.py": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02",
+    "bbox_ablation.py": "974aa69f6949b70834cb7d700fba864dde12a9ddaea1f5e0cb92776b8dea23e5",
+    "exploration_experiment.py": "4022d648e4be4884706ed841f36863ea7099a40b5e41ec418482de54e3c9d373",
+    "requirements.txt": "40f50a5b1befe25db06c8d6bfd9b706d09f604f4bd64d7ada113f6c5d743d6e9"
+  },
+  "model_sha256": "f128d8595195128ae0d6f8f786fe77fb6951971b26c3e4de2841134aa7d1d096",
+  "protocol_sha256": "759f86c97367de5bcab40b17217c4b30d516bd166713af860d326a82e7f4eaf7"
+}

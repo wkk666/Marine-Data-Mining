@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "whole_batch_records": 336,
+  "feature_records": 124,
+  "all_medians_and_variation_recomputed": true,
+  "all_12_posthoc_comparisons_recomputed": true,
+  "saved_coordinates_rechecked_against_saved_ID_sets": true,
+  "protocol_and_output_hashes_verified": true,
+  "previous_files_verified": 36
+}

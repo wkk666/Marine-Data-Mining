@@ -1,0 +1,7 @@
+{
+    "status":  "word_export_failed",
+    "error":  "Retrieving the COM class factory for component with CLSID {000209FF-0000-0000-C000-000000000046} failed due to the following error: 80070005 Access is denied. (Exception from HRESULT: 0x80070005 (E_ACCESSDENIED)).",
+    "script_stack":  "at \u003cScriptBlock\u003e, D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\审阅版制作\\export_word_pdf.ps1: line 45",
+    "docx":  "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\实验报告_审阅版.docx",
+    "pdf":  "D:\\CodeX\\海洋数据挖掘\\H3_海区查询实验\\报告材料\\实验报告_审阅版.pdf"
+}

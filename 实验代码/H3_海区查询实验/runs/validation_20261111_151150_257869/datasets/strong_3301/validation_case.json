@@ -1,0 +1,8 @@
+{
+  "name": "strong_3301",
+  "distribution": "strong",
+  "seed": 3301,
+  "uniform_points": 2000,
+  "inside_band": 4000,
+  "outside_band": 4000
+}

@@ -1,0 +1,145 @@
+{
+  "case": {
+    "name": "boundary_B",
+    "distribution": "boundary_cluster",
+    "seed": 20261124
+  },
+  "generation": {
+    "uniform_component_points": 2000,
+    "inside_band_component_points": 4000,
+    "outside_band_component_points": 4000,
+    "rejection_proposals": 393216
+  },
+  "all_data_simulated": true,
+  "protocol": {
+    "protocol_version": "exploration-v1",
+    "purpose": "Exploratory measurement only; no selector training or validation claims",
+    "all_data_simulated": true,
+    "final_answer_cache": false,
+    "random_points_per_dataset": 10000,
+    "unchanged_boundary_probes": 32,
+    "datasets": [
+      {
+        "name": "uniform_A",
+        "distribution": "uniform",
+        "seed": 20261121
+      },
+      {
+        "name": "uniform_B",
+        "distribution": "uniform",
+        "seed": 20261122
+      },
+      {
+        "name": "boundary_A",
+        "distribution": "boundary_cluster",
+        "seed": 20261123
+      },
+      {
+        "name": "boundary_B",
+        "distribution": "boundary_cluster",
+        "seed": 20261124
+      }
+    ],
+    "rng": "numpy.Generator(PCG64)",
+    "region_vertices_lon_lat": [
+      [
+        122.0,
+        30.0
+      ],
+      [
+        122.25,
+        30.0
+      ],
+      [
+        122.25,
+        30.25
+      ],
+      [
+        122.15625,
+        30.25
+      ],
+      [
+        122.15625,
+        30.09375
+      ],
+      [
+        122.09375,
+        30.09375
+      ],
+      [
+        122.09375,
+        30.25
+      ],
+      [
+        122.0,
+        30.25
+      ]
+    ],
+    "extent_lon_lat": [
+      121.875,
+      29.875,
+      122.375,
+      30.375
+    ],
+    "boundary_cluster": {
+      "cluster_component_fraction": 0.8,
+      "uniform_component_fraction": 0.2,
+      "inside_band_points": 4000,
+      "outside_band_points": 4000,
+      "uniform_component_points": 2000,
+      "max_distance_to_region_boundary_degrees": 0.002,
+      "distance_metric": "Euclidean distance in the same local lon/lat plane as the exact query",
+      "generation": "Uniform proposals in the unchanged extent; reject distances greater than 0.002 degrees; retain first 4000 covered and first 4000 uncovered band points, then combine with 2000 ordinary uniform points and randomly permute the 10000 random records",
+      "proposal_batch_size": 32768,
+      "no_parameter_adjustment_after_timing": true
+    },
+    "methods": [
+      "direct",
+      "h3_r6",
+      "h3_r7",
+      "h3_r8"
+    ],
+    "K": [
+      1,
+      100,
+      1000
+    ],
+    "whole_batch_repeats": 7,
+    "method_case_order_seed": 20261130,
+    "feature_sample_size": 200,
+    "feature_repeats": 31,
+    "feature_seed_base": 20261201,
+    "timing": {
+      "whole_batch": "One outer perf_counter_ns interval containing fresh preparation and K consecutive calls of the unchanged query function; each call constructs a new result array",
+      "correctness": "Preflight and post-batch ID comparisons outside the timed interval; immutable coordinates during benchmark",
+      "feature_only": "RNG initialization, random sampling without replacement, sample coordinate gathering, independent r6/r7/r8 encoding, within-resolution cell deduplication, sample-cell polygons and covers/intersects classification",
+      "feature_common_geometry": "Fresh geometry preparation measured separately, before feature-only timer",
+      "no_full_assets_for_features": true,
+      "warmup": "One fresh preparation and one query per method/dataset; one feature extraction per dataset, all outside recorded trials",
+      "gc": "Disabled uniformly during measured trials, restored afterwards",
+      "excluded": [
+        "data generation",
+        "disk IO",
+        "imports",
+        "ID-set comparison",
+        "coverage audit"
+      ]
+    },
+    "posthoc_comparisons": {
+      "two_choices": [
+        "direct",
+        "h3_r7"
+      ],
+      "four_choices": [
+        "direct",
+        "h3_r6",
+        "h3_r7",
+        "h3_r8"
+      ],
+      "selection_basis": "Minimum median of actually measured preparation-plus-K totals for each dataset and K; not a deployable selector",
+      "potential_saving": "two-choice minimum median minus four-choice minimum median"
+    }
+  },
+  "geometry_model": "same local lon/lat planar straight segments as round 1",
+  "boundary_probes_identical_to_previous_round": true
+}

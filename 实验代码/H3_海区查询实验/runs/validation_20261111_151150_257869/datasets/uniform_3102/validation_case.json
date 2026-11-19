@@ -1,0 +1,8 @@
+{
+  "name": "uniform_3102",
+  "distribution": "uniform",
+  "seed": 3102,
+  "uniform_points": 10000,
+  "inside_band": 0,
+  "outside_band": 0
+}

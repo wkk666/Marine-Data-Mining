@@ -1,0 +1,34 @@
+{
+  "input_data/uniform_A/simulated_points.csv": {
+    "source": "runs/explore_20261110_221236_751069/datasets/uniform_A/data/simulated_points.csv",
+    "sha256": "4560435628aa17e4fd38b49228b8e7d56157337bdc62dde87ae3116289cb2bc8"
+  },
+  "input_data/uniform_A/simulated_sea.geojson": {
+    "source": "runs/explore_20261110_221236_751069/datasets/uniform_A/data/simulated_sea.geojson",
+    "sha256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+  },
+  "input_data/uniform_B/simulated_points.csv": {
+    "source": "runs/explore_20261110_221236_751069/datasets/uniform_B/data/simulated_points.csv",
+    "sha256": "52a2930c5d7a91f24eb5481f1dc9398fa9970566c1e236dfdd08f0a08ebda9d0"
+  },
+  "input_data/uniform_B/simulated_sea.geojson": {
+    "source": "runs/explore_20261110_221236_751069/datasets/uniform_B/data/simulated_sea.geojson",
+    "sha256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+  },
+  "input_data/boundary_A/simulated_points.csv": {
+    "source": "runs/explore_20261110_221236_751069/datasets/boundary_A/data/simulated_points.csv",
+    "sha256": "e654acbd69245109507f5892c0599e461064a40f4e9e0055af463967fc774909"
+  },
+  "input_data/boundary_A/simulated_sea.geojson": {
+    "source": "runs/explore_20261110_221236_751069/datasets/boundary_A/data/simulated_sea.geojson",
+    "sha256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+  },
+  "input_data/boundary_B/simulated_points.csv": {
+    "source": "runs/explore_20261110_221236_751069/datasets/boundary_B/data/simulated_points.csv",
+    "sha256": "a5f512f4264904418c15d8540d39bf3fb18b1ffbc4c6e0bbb2b4e5a586294f47"
+  },
+  "input_data/boundary_B/simulated_sea.geojson": {
+    "source": "runs/explore_20261110_221236_751069/datasets/boundary_B/data/simulated_sea.geojson",
+    "sha256": "d23cecfd68f8ca891b58e4e45d60813960978ad2d14799165b15f39467c44d95"
+  }
+}

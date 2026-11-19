@@ -1,0 +1,5 @@
+﻿dataset,distribution,seed,trials,median_ms,q25_ms,q75_ms,min_ms,max_ms,mad_ms,common_geometry_prepare_median_ms,sample_and_gather_median_ms,r6_encoding_median_ms,r6_deduplication_median_ms,r6_polygon_and_classification_median_ms,r7_encoding_median_ms,r7_deduplication_median_ms,r7_polygon_and_classification_median_ms,r8_encoding_median_ms,r8_deduplication_median_ms,r8_polygon_and_classification_median_ms,feature_other_median_ms
+uniform_A,uniform,20261121,31,3.676,3.64525,3.70545,3.5844,4.8941,0.029499999999999638,0.0116,0.0219,0.0778,0.012,0.6605,0.0862,0.0164,1.269,0.0854,0.0172,1.4278,0.0037
+uniform_B,uniform,20261122,31,3.677,3.62675,3.71185,3.5604,3.809,0.04809999999999981,0.0117,0.0218,0.0772,0.0119,0.6578,0.086,0.0167,1.271,0.0856,0.0172,1.4174,0.0037
+boundary_A,boundary_cluster,20261123,31,2.6731,2.62555,2.7214,2.5012,2.8403,0.049100000000000144,0.0117,0.0218,0.0757,0.0095,0.4077,0.084,0.0119,0.7805,0.0846,0.015,1.1768,0.0038
+boundary_B,boundary_cluster,20261124,31,2.6438,2.6212,2.70125,2.5004,2.7978,0.05249999999999977,0.0118,0.0219,0.0756,0.0094,0.3991,0.0834,0.0119,0.7671,0.084,0.015,1.1746,0.0037

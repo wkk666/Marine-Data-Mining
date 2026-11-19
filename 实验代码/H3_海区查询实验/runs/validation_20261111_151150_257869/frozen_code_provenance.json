@@ -1,0 +1,22 @@
+{
+  "selector_engine.py": {
+    "source": "runs/selector_cal_20261111_140827_086716/source_snapshots/selector_engine.py",
+    "sha256": "5524800f59662f4d5fd2e38e94fdaf1a5778fbafe1bb6ec74417bc3d81ee25cb"
+  },
+  "selector_decision.py": {
+    "source": "runs/selector_cal_20261111_140827_086716/source_snapshots/selector_decision.py",
+    "sha256": "ebe6802e850a11bc5838d17067e3d5f59212a3e156cb68262c33976d26ce14ef"
+  },
+  "run_experiment.py": {
+    "source": "runs/selector_cal_20261111_140827_086716/source_snapshots/run_experiment.py",
+    "sha256": "13d7c9cd3a9b8bee5e4d683a50117bce773dc084ff2ab55a0f3676e3ffe21b02"
+  },
+  "bbox_ablation.py": {
+    "source": "runs/selector_cal_20261111_140827_086716/source_snapshots/bbox_ablation.py",
+    "sha256": "974aa69f6949b70834cb7d700fba864dde12a9ddaea1f5e0cb92776b8dea23e5"
+  },
+  "exploration_experiment.py": {
+    "source": "runs/explore_20261110_221236_751069/exploration_experiment.py",
+    "sha256": "4022d648e4be4884706ed841f36863ea7099a40b5e41ec418482de54e3c9d373"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "figures": [
+    {
+      "png": "图1_海区与点分布.png",
+      "size_pixels": [
+        3780,
+        2040
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图1_海区与点分布.svg",
+      "svg_well_formed": true,
+      "svg_raster_images": 0,
+      "visually_opened": true
+    },
+    {
+      "png": "图2_固定方法完整成本.png",
+      "size_pixels": [
+        3600,
+        3030
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图2_固定方法完整成本.svg",
+      "svg_well_formed": true,
+      "svg_raster_images": 0,
+      "visually_opened": true
+    },
+    {
+      "png": "图3_策略净节省与波动.png",
+      "size_pixels": [
+        3840,
+        4050
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图3_策略净节省与波动.svg",
+      "svg_well_formed": true,
+      "svg_raster_images": 0,
+      "visually_opened": true
+    },
+    {
+      "png": "图4_比例与冻结区间.png",
+      "size_pixels": [
+        3780,
+        2250
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "svg": "图4_比例与冻结区间.svg",
+      "svg_well_formed": true,
+      "svg_raster_images": 0,
+      "visually_opened": true
+    }
+  ],
+  "visual_checks": [
+    "四幅PNG已实际打开检查；图3和图4另经独立审阅",
+    "中文、Unicode负号、方法颜色和单位清楚",
+    "修正图1放大图标题/图例页脚与图3行标题/页脚间距后再次打开检查",
+    "图2保持整体量级，无小差额夸大；图3未丢失七轮原始点",
+    "SVG为可解析矢量路径，未嵌入栅格图片"
+  ],
+  "numeric_checks": {
+    "fixed_method_rows": 72,
+    "paired_groups": 72,
+    "paired_raw_values": 504,
+    "feature_rows": 6,
+    "frozen_interval_rows": 28,
+    "all_source_fields_match": true
+  },
+  "draft_characters_without_whitespace": 1896,
+  "old_independent_validation_read_only_audit": "passed: original 81 output files, 316 prior files and 86 delivery fingerprints unchanged",
+  "no_new_experiment_or_fitting": true
+}

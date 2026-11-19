@@ -1,0 +1,26 @@
+{
+  "case": {
+    "name": "strong_3302",
+    "seed": 3302,
+    "distribution": "boundary_cluster"
+  },
+  "generation": {
+    "uniform_component_points": 2000,
+    "inside_band_component_points": 4000,
+    "outside_band_component_points": 4000,
+    "rejection_proposals": 393216
+  },
+  "all_data_simulated": true,
+  "protocol": {
+    "random_points_per_dataset": 10000,
+    "boundary_cluster": {
+      "uniform_component_points": 2000,
+      "inside_band_points": 4000,
+      "outside_band_points": 4000,
+      "max_distance_to_region_boundary_degrees": 0.002,
+      "proposal_batch_size": 32768
+    }
+  },
+  "geometry_model": "same local lon/lat planar straight segments as round 1",
+  "boundary_probes_identical_to_previous_round": true
+}
